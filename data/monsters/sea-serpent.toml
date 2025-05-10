@@ -1,0 +1,5 @@
+# Sea Serpent / 海蛇 / 海蛇
+id = "sea-serpent"
+
+elementWeaknesses = ["earthen"]
+statusImmunities = ["poisoned", "burning", "frozen", "blight"]

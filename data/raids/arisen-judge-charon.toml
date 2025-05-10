@@ -1,0 +1,5 @@
+# Arisen Judge Charon / 重生判官卡戎 / 重生判官凱倫
+id = "arisen-judge-charon"
+
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

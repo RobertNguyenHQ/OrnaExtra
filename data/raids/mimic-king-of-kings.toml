@@ -1,0 +1,4 @@
+# Mimic King of Kings / 箱王之王 / 箱王之王
+id = "mimic-king-of-kings"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

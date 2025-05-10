@@ -1,0 +1,5 @@
+# Lizarr Marauder / 蜥蜴人强盗 / 蜥蜴人強盜
+id = "lizarr-marauder"
+
+elementWeaknesses = ["lightning"]
+elementImmunities = ["water", "fire"]

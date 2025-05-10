@@ -1,0 +1,6 @@
+# Arisen Ithra, the White Knight / 重生白骑士以斯拉 / 重生白騎士以斯拉
+id = "arisen-ithra-the-white-knight"
+
+elementWeaknesses = ["fire"]
+elementImmunities = ["water"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

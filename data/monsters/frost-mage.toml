@@ -1,0 +1,5 @@
+# Frost Mage / 冰霜法师 / 冰霜法師
+id = "frost-mage"
+
+elementWeaknesses = ["lightning"]
+elementImmunities = ["water"]

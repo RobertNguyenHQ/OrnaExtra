@@ -1,0 +1,4 @@
+# Age-Old Mimic / 古老宝箱怪 / 古老的寶箱怪
+id = "age-old-mimic"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

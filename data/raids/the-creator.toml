@@ -1,0 +1,4 @@
+# The Creator / 造物者 / 造物者
+id = "the-creator"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "windswept", "frozen", "paralyzed", "rot", "blind", "asleep", "drenched", "stunned", "blight", "petrified", "stasis"]

@@ -1,0 +1,5 @@
+# Arisen Judge Rhada / 重生判官拉达 / 重生判官拉達
+id = "arisen-judge-rhada"
+
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

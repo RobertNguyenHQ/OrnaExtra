@@ -1,0 +1,6 @@
+# Fallen Hero, Lover Lost / 堕落英雄恋逝 / 墮落英雄戀逝
+id = "fallen-hero-lover-lost"
+
+elementWeaknesses = ["holy"]
+elementImmunities = ["dark"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "rot", "asleep", "blight"]

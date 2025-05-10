@@ -1,0 +1,5 @@
+# Great Murk / 巨型泥沼怪 / 強大的淤濁
+id = "great-murk"
+
+elementImmunities = ["water", "fire", "lightning", "earthen", "dark", "holy", "dragon"]
+statusImmunities = ["poisoned", "bleeding", "burning", "rot", "blight"]

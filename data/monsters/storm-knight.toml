@@ -1,0 +1,5 @@
+# Storm Knight / 暴风骑士 / 暴風騎士
+id = "storm-knight"
+
+elementWeaknesses = ["earthen"]
+elementImmunities = ["lightning"]

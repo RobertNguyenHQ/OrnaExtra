@@ -1,0 +1,4 @@
+# Gazer / 凝视者 / 凝視者
+id = "gazer"
+
+elementImmunities = ["lightning"]

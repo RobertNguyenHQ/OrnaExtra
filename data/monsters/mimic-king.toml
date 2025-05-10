@@ -1,0 +1,4 @@
+# Mimic King (Arisen) / 宝箱王 (重生者) / 寶箱王 (重生者)
+id = "mimic-king"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

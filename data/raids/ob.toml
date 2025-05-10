@@ -1,0 +1,4 @@
+# ob / ob / ob
+id = "ob"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

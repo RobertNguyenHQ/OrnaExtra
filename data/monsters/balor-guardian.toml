@@ -1,0 +1,4 @@
+# Balor Guardian / 巴罗尔守卫 / 巴羅爾守衛
+id = "balor-guardian"
+
+elementWeaknesses = ["arcane"]

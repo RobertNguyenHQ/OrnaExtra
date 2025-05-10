@@ -1,0 +1,5 @@
+# Arisen Surtr / 重生史尔特尔 / 重生的史爾特爾
+id = "arisen-surtr"
+
+elementImmunities = ["fire"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

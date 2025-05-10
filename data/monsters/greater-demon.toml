@@ -1,0 +1,5 @@
+# Greater Demon / 大惡魔 / 大惡魔
+id = "greater-demon"
+
+elementWeaknesses = ["holy"]
+elementImmunities = ["dark"]

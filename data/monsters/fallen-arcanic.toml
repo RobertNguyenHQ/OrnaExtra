@@ -1,0 +1,5 @@
+# Fallen Arcanic / 堕落奥术剑士 / 墮落奧術劍士
+id = "fallen-arcanic"
+
+elementImmunities = ["arcane"]
+statusImmunities = ["asleep"]

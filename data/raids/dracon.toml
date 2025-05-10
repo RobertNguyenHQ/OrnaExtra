@@ -1,0 +1,4 @@
+# Dracon / 德肯 / 德肯
+id = "dracon"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

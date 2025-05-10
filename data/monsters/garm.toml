@@ -1,0 +1,4 @@
+# Garm / 加姆 / 加姆
+id = "garm"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "blind", "asleep", "blight"]

@@ -1,0 +1,5 @@
+# Lizarr Lord / 蜥蜴人领主 / 蜥蜴人領主
+id = "lizarr-lord"
+
+elementWeaknesses = ["lightning"]
+elementImmunities = ["water"]

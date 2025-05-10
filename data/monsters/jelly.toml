@@ -1,0 +1,5 @@
+# Jelly / 果冻 / 果凍
+id = "jelly"
+
+elementWeaknesses = ["lightning"]
+elementImmunities = ["water"]

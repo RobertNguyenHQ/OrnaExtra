@@ -1,0 +1,5 @@
+# Kerberos / 刻耳柏洛斯 / 刻耳柏洛斯
+id = "kerberos"
+
+elementImmunities = ["dark", "holy", "dragon"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

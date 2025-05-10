@@ -1,0 +1,4 @@
+# Shadow of Rhada, the Great Shield / 巨盾拉达之影 / 大盾拉達之暗影
+id = "shadow-of-rhada-the-great-shield"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "rot", "blight"]

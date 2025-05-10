@@ -1,0 +1,4 @@
+# Hades / 黑帝斯 / 黑帝斯
+id = "hades"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

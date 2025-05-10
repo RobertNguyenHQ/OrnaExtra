@@ -1,0 +1,5 @@
+# Walking Wood / 行木 / 行木
+id = "walking-wood"
+
+elementWeaknesses = ["fire"]
+elementImmunities = ["earthen"]

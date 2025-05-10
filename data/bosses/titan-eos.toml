@@ -1,0 +1,6 @@
+# Titan Eos / 泰坦厄俄斯 / 泰坦愛奧斯
+id = "titan-eos"
+
+elementWeaknesses = ["dark"]
+elementImmunities = ["fire", "holy"]
+statusImmunities = ["poisoned", "bleeding", "frozen", "paralyzed", "rot", "petrified"]

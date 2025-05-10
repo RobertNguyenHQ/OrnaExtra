@@ -1,0 +1,5 @@
+# Mullo of Fomoria / 弗摩尔之穆洛 / 弗摩爾族之穆洛
+id = "mullo-of-fomoria"
+
+elementWeaknesses = ["fire", "holy"]
+elementImmunities = ["water", "lightning"]

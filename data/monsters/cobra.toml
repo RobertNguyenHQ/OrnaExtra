@@ -1,0 +1,5 @@
+# Cobra / 眼镜蛇 / 眼鏡蛇
+id = "cobra"
+
+elementWeaknesses = ["earthen"]
+statusImmunities = ["poisoned", "blight"]

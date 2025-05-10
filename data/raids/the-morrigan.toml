@@ -1,0 +1,4 @@
+# The Morrigan / 摩莉甘 / 摩莉甘
+id = "the-morrigan"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "def_d", "def_dd", "mag_d", "t__mag_d", "t__mag_dd", "res_d", "res_dd"]

@@ -1,0 +1,6 @@
+# Fallen Vulcan, the Red Knight / 堕落赤骑士瓦肯 / 墮落赤騎瓦肯
+id = "fallen-vulcan-the-red-knight"
+
+elementWeaknesses = ["water"]
+elementImmunities = ["fire"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

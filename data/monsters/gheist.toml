@@ -1,0 +1,6 @@
+# Gheist / 鬼魂 / 鬼魂
+id = "gheist"
+
+elementWeaknesses = ["holy"]
+elementImmunities = ["dark", "physical"]
+statusImmunities = ["asleep"]

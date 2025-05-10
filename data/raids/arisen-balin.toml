@@ -1,0 +1,4 @@
+# Arisen Balin / 重生巴林 / 重生巴林
+id = "arisen-balin"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

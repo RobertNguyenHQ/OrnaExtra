@@ -1,0 +1,6 @@
+# Blue Flame / 蓝色火焰 / 藍色火焰
+id = "blue-flame"
+
+elementWeaknesses = ["lightning", "earthen"]
+elementImmunities = ["water", "fire"]
+statusImmunities = ["burning"]

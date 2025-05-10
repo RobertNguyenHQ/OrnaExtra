@@ -1,0 +1,6 @@
+# Flame Core / 火焰之核 / 火焰之核
+id = "flame-core"
+
+elementWeaknesses = ["water"]
+elementImmunities = ["fire"]
+statusImmunities = ["burning"]

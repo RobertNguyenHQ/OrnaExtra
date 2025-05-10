@@ -1,0 +1,4 @@
+# Flax44 / Flax44 / Flax44
+id = "flax44"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

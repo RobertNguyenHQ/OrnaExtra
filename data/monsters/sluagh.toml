@@ -1,0 +1,4 @@
+# Sluagh (Arisen) / 勾魂者 (重生者) / 勾魂者 (重生者)
+id = "sluagh"
+
+elementImmunities = ["holy"]

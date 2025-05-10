@@ -1,0 +1,5 @@
+# Hydra / 九头蛇 / 九頭蛇
+id = "hydra"
+
+elementWeaknesses = ["lightning"]
+statusImmunities = ["poisoned", "burning", "frozen", "paralyzed", "rot", "asleep", "blight", "petrified"]

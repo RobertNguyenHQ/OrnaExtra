@@ -1,0 +1,6 @@
+# King of Ljosalfar / 日之精灵王 / 日之精靈王
+id = "king-of-ljosalfar"
+
+elementWeaknesses = ["earthen"]
+elementImmunities = ["holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

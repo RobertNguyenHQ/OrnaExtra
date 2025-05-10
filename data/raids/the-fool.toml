@@ -1,0 +1,4 @@
+# The Fool / 愚人 / 愚人
+id = "the-fool"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

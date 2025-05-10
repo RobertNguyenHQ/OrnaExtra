@@ -1,0 +1,4 @@
+# Arisen Gerd / 重生葛德 / 重生葛德
+id = "arisen-gerd"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "mag_d", "t__mag_d"]

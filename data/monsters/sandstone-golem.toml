@@ -1,0 +1,4 @@
+# Sandstone Golem / 砂岩魔像 / 砂岩魔像
+id = "sandstone-golem"
+
+statusImmunities = ["petrified"]

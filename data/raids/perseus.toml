@@ -1,0 +1,4 @@
+# Perseus / 珀尔修斯 / 柏修斯
+id = "perseus"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

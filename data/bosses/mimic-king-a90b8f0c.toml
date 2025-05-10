@@ -1,0 +1,5 @@
+# Mimic King / 宝箱王 / 寶箱王
+id = "mimic-king-a90b8f0c"
+
+elementWeaknesses = ["dragon"]
+elementImmunities = ["water", "fire", "lightning", "earthen"]

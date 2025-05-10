@@ -1,0 +1,4 @@
+# Fey Gazer / 变异凝视者 / 變異凝視者
+id = "fey-gazer"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight"]

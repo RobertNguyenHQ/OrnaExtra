@@ -1,0 +1,5 @@
+# Rift Judgement / 裂隙审判 / 裂痕審判
+id = "rift-judgement"
+
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

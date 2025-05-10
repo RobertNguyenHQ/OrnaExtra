@@ -1,0 +1,5 @@
+# Arisen Judge Achlys / 重生判官艾柯吕斯 / 重生判官艾柯呂斯
+id = "arisen-judge-achlys"
+
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

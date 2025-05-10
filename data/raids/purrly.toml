@@ -1,0 +1,5 @@
+# Purrly / Purrly / Purrly
+id = "purrly"
+
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

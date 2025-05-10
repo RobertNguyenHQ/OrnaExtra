@@ -1,0 +1,4 @@
+# Anubis / 阿努比斯 / 阿努比斯
+id = "anubis"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

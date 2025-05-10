@@ -1,0 +1,5 @@
+# Covyn / Covyn / Covyn
+id = "covyn"
+
+elementWeaknesses = ["arcane"]
+statusImmunities = ["poisoned", "bleeding", "burning", "windswept", "frozen", "paralyzed", "rot", "blind", "asleep", "drenched", "stunned", "blight", "petrified", "stasis"]

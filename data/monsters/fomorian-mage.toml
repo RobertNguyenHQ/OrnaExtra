@@ -1,0 +1,4 @@
+# Fomorian Mage / 弗摩尔族法师 / 弗摩爾族法師
+id = "fomorian-mage"
+
+elementWeaknesses = ["dark"]

@@ -1,0 +1,6 @@
+# Kraken / 克拉肯 / 克拉肯
+id = "kraken"
+
+elementWeaknesses = ["holy"]
+elementImmunities = ["arcane"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "asleep"]

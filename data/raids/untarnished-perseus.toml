@@ -1,0 +1,4 @@
+# Untarnished Perseus / 无瑕之珀尔修斯 / 無瑕的柏修斯
+id = "untarnished-perseus"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

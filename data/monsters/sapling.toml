@@ -1,0 +1,6 @@
+# Sapling / 树苗 / 樹苗
+id = "sapling"
+
+elementWeaknesses = ["fire"]
+elementImmunities = ["earthen"]
+statusImmunities = ["poisoned", "bleeding", "frozen", "blind", "asleep"]

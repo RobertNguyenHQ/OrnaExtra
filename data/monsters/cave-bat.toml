@@ -1,0 +1,4 @@
+# Cave Bat / 洞穴蝙蝠 / 洞穴蝙蝠
+id = "cave-bat"
+
+statusImmunities = ["poisoned"]

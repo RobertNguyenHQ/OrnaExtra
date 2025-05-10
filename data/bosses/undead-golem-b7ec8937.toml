@@ -1,0 +1,5 @@
+# Undead Golem / 不死魔像 / 不死魔像
+id = "undead-golem-b7ec8937"
+
+elementWeaknesses = ["holy"]
+statusImmunities = ["bleeding"]

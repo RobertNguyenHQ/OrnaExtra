@@ -1,0 +1,4 @@
+# Arisen Thronemaker Ptah / 重生造王者普塔 / 重生造王者普塔
+id = "arisen-thronemaker-ptah"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

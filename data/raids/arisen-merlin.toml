@@ -1,0 +1,4 @@
+# Arisen Merlin / 重生梅林 / 重生的梅林
+id = "arisen-merlin"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "t__res_d", "res_d", "res_dd"]

@@ -1,0 +1,5 @@
+# Arisen Phoenix / 重生凤凰 / 重生的鳳凰
+id = "arisen-phoenix"
+
+elementImmunities = ["fire"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

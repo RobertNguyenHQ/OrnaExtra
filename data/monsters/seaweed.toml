@@ -1,0 +1,4 @@
+# Seaweed / 海带 / 海帶
+id = "seaweed"
+
+statusImmunities = ["bleeding", "burning"]

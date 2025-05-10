@@ -1,0 +1,5 @@
+# Dokkalfar / 夜之精灵 / 夜之精靈
+id = "dokkalfar"
+
+elementWeaknesses = ["holy"]
+elementImmunities = ["dark"]

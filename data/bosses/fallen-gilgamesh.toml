@@ -1,0 +1,5 @@
+# Fallen Gilgamesh / 堕落的吉尔伽美什 / 墮落的吉爾伽美什
+id = "fallen-gilgamesh"
+
+elementImmunities = ["arcane"]
+statusImmunities = ["frozen", "paralyzed", "rot", "blind", "asleep"]

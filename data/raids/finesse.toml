@@ -1,0 +1,4 @@
+# Finesse / 芬尼斯 / 芬尼斯
+id = "finesse"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

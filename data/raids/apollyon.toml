@@ -1,0 +1,4 @@
+# Apollyon / 亚玻伦 / 亞坡倫
+id = "apollyon"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

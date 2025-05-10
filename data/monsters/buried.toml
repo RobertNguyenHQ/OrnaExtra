@@ -1,0 +1,5 @@
+# Buried / 活埋者 / 活埋者
+id = "buried"
+
+elementImmunities = ["earthen"]
+statusImmunities = ["rot"]

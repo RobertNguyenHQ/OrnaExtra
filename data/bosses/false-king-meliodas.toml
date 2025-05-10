@@ -1,0 +1,6 @@
+# False King Meliodas / 伪王梅里欧达斯 / 偽王梅里歐達斯
+id = "false-king-meliodas"
+
+elementWeaknesses = ["dark"]
+elementImmunities = ["holy"]
+statusImmunities = ["frozen", "paralyzed", "blind", "blight", "petrified"]

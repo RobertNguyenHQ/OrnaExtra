@@ -1,0 +1,5 @@
+# Cursed Aengus Og of Fomoria / 弗摩尔之诅咒的安格斯奥格 / 受詛咒的弗摩爾族之安格斯奧格
+id = "cursed-aengus-og-of-fomoria"
+
+elementWeaknesses = ["water", "dark"]
+elementImmunities = ["fire"]

@@ -1,0 +1,5 @@
+# Hyperion / 亥伯龙 / 海柏利昂
+id = "hyperion"
+
+elementImmunities = ["dark", "holy", "dragon", "arcane"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

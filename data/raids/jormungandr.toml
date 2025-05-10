@@ -1,0 +1,4 @@
+# Jormungandr / 耶梦加得 / 耶夢加德
+id = "jormungandr"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

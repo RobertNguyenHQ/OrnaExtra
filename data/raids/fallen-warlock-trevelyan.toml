@@ -1,0 +1,4 @@
+# Fallen Warlock Trevelyan / 堕落术士特里维廉 / 墮落術士特里維廉
+id = "fallen-warlock-trevelyan"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "t__res_d", "res_d", "res_dd"]

@@ -1,0 +1,4 @@
+# Odin / 奥丁 / 奧丁
+id = "odin"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

@@ -1,0 +1,6 @@
+# Arisen King Meliodas / 重生王者梅里欧达斯 / 重生王者梅里歐達斯
+id = "arisen-king-meliodas"
+
+elementWeaknesses = ["dark"]
+elementImmunities = ["holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

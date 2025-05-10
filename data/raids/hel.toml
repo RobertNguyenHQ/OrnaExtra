@@ -1,0 +1,5 @@
+# Hel / 赫尔 / 赫爾
+id = "hel"
+
+elementImmunities = ["lightning"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

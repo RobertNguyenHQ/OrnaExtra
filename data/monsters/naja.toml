@@ -1,0 +1,5 @@
+# Naja / 娜迦 / 納迦
+id = "naja"
+
+elementWeaknesses = ["earthen"]
+statusImmunities = ["poisoned", "blight"]

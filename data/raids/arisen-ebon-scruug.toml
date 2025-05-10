@@ -1,0 +1,5 @@
+# Arisen Ebon Scruug / 重生黑之史古基 / 重生黑之史古基
+id = "arisen-ebon-scruug"
+
+elementImmunities = ["dark"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

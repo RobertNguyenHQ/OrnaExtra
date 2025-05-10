@@ -1,0 +1,5 @@
+# Coral Varmint / 珊瑚厄兽 / 珊瑚厄獸
+id = "coral-varmint"
+
+elementWeaknesses = ["lightning"]
+statusImmunities = ["poisoned", "blight"]

@@ -1,0 +1,6 @@
+# Balor Flame / 巴罗尔火焰 / 巴羅爾火焰
+id = "balor-flame"
+
+elementWeaknesses = ["water", "earthen", "arcane"]
+elementImmunities = ["fire", "lightning", "dark", "holy", "dragon"]
+statusImmunities = ["poisoned", "burning", "frozen", "blight"]

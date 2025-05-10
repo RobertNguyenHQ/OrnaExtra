@@ -1,0 +1,4 @@
+# Red Basilisk / 赤红巴西利斯克 / 赤紅巴西利斯克
+id = "red-basilisk"
+
+statusImmunities = ["poisoned", "blight"]

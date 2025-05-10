@@ -1,0 +1,5 @@
+# Final Horseman / 终末骑士 / 終末騎士
+id = "final-horseman"
+
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

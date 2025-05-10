@@ -1,0 +1,6 @@
+# Racul / 路卡尔 / 路卡爾
+id = "racul"
+
+elementWeaknesses = ["holy"]
+elementImmunities = ["dark", "arcane"]
+statusImmunities = ["poisoned", "asleep", "blight"]

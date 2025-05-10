@@ -1,0 +1,4 @@
+# Arisen Yggdrasil / 重生世界树 / 重生世界樹
+id = "arisen-yggdrasil"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight"]

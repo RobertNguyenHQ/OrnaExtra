@@ -1,0 +1,5 @@
+# First Horseman / 第一骑士 / 第一騎士
+id = "first-horseman"
+
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

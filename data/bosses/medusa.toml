@@ -1,0 +1,4 @@
+# Medusa / 美杜莎 / 梅杜莎
+id = "medusa"
+
+statusImmunities = ["poisoned", "bleeding", "frozen", "paralyzed", "rot", "blind", "asleep"]

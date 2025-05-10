@@ -1,0 +1,4 @@
+# Sister Neman / 妮潘 / 妮潘
+id = "sister-neman"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "def_d", "def_dd", "mag_d", "t__mag_d", "t__mag_dd", "res_d", "res_dd"]

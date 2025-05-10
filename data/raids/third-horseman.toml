@@ -1,0 +1,5 @@
+# Third Horseman / 第三骑士 / 第三騎士
+id = "third-horseman"
+
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

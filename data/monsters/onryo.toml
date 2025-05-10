@@ -1,0 +1,6 @@
+# Onryo / 怨灵 / 怨靈
+id = "onryo"
+
+elementWeaknesses = ["holy"]
+elementImmunities = ["dark"]
+statusImmunities = ["asleep"]

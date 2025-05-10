@@ -1,0 +1,4 @@
+# Gerd / 葛德 / 葛德
+id = "gerd"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "mag_d", "t__mag_d"]

@@ -1,0 +1,6 @@
+# Heimdall / 海姆达尔 / 海姆達爾
+id = "heimdall"
+
+elementWeaknesses = ["earthen"]
+elementImmunities = ["water"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

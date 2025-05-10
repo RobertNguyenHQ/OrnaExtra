@@ -1,0 +1,6 @@
+# Flames / 火焰团 / 火焰
+id = "flames"
+
+elementWeaknesses = ["water", "earthen"]
+elementImmunities = ["fire"]
+statusImmunities = ["burning"]

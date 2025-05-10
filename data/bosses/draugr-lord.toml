@@ -1,0 +1,5 @@
+# Draugr Lord / 尸鬼领主 / 屍鬼領主
+id = "draugr-lord"
+
+elementWeaknesses = ["earthen"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

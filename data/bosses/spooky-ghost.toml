@@ -1,0 +1,6 @@
+# Spooky Ghost / 诡异幽灵 / 詭異幽靈
+id = "spooky-ghost"
+
+elementWeaknesses = ["holy"]
+elementImmunities = ["dark", "physical"]
+statusImmunities = ["asleep"]

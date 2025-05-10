@@ -1,0 +1,5 @@
+# Dark Dragon / 暗黑龙 / 暗黑龍
+id = "dark-dragon"
+
+elementWeaknesses = ["holy", "dragon"]
+elementImmunities = ["dark"]

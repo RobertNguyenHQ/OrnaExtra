@@ -1,0 +1,4 @@
+# Mummy / 木乃伊 / 木乃伊
+id = "mummy"
+
+statusImmunities = ["poisoned", "frozen", "paralyzed", "rot", "asleep"]

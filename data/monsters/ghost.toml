@@ -1,0 +1,6 @@
+# Ghost / 鬼 / 鬼
+id = "ghost"
+
+elementWeaknesses = ["holy"]
+elementImmunities = ["physical"]
+statusImmunities = ["asleep"]

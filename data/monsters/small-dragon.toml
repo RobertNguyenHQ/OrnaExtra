@@ -1,0 +1,4 @@
+# Small Dragon / 小龙 / 小龍
+id = "small-dragon"
+
+elementWeaknesses = ["dragon"]

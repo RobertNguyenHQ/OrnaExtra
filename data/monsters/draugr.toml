@@ -1,0 +1,4 @@
+# Draugr / 尸鬼 / 屍鬼
+id = "draugr"
+
+elementWeaknesses = ["earthen"]

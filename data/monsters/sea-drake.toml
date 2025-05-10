@@ -1,0 +1,5 @@
+# Sea Drake / 海龙兽 / 海龍獸
+id = "sea-drake"
+
+elementWeaknesses = ["lightning", "dragon"]
+elementImmunities = ["water"]

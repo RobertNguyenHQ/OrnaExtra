@@ -1,0 +1,4 @@
+# Chimera / 奇美拉 / 奇美拉
+id = "chimera"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

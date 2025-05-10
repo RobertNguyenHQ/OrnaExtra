@@ -1,0 +1,4 @@
+# Warg / 座狼 / 座狼
+id = "warg"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "blind", "asleep", "blight"]

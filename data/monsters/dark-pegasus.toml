@@ -1,0 +1,5 @@
+# Dark Pegasus / 暗黑天马 / 暗黑天馬
+id = "dark-pegasus"
+
+elementImmunities = ["water", "dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "frozen", "paralyzed", "blind", "asleep"]

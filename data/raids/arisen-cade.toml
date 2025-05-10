@@ -1,0 +1,4 @@
+# Arisen Cade / 重生卡德 / 重生卡德
+id = "arisen-cade"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

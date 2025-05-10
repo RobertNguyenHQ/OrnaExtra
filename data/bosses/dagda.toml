@@ -1,0 +1,6 @@
+# Dagda / 达格达 / 達格達
+id = "dagda"
+
+elementWeaknesses = ["arcane"]
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "asleep", "stunned", "petrified"]

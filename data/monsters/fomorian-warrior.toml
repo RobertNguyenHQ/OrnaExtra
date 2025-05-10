@@ -1,0 +1,4 @@
+# Fomorian Warrior / 弗摩尔族战士 / 弗摩爾族戰士
+id = "fomorian-warrior"
+
+elementWeaknesses = ["dark"]

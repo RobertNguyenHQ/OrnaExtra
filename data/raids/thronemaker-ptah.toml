@@ -1,0 +1,4 @@
+# Thronemaker Ptah / 造王者普塔 / 造王者普塔
+id = "thronemaker-ptah"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

@@ -1,0 +1,6 @@
+# Castor / 卡斯托耳 / 卡斯托耳
+id = "castor"
+
+elementWeaknesses = ["lightning"]
+elementImmunities = ["water", "fire"]
+statusImmunities = ["poisoned", "bleeding", "frozen", "asleep", "blight"]

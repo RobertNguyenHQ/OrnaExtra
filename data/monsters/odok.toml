@@ -1,0 +1,5 @@
+# Odok / 亡骸 / 亡骸
+id = "odok"
+
+elementWeaknesses = ["holy"]
+statusImmunities = ["bleeding"]

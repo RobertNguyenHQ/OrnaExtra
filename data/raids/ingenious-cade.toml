@@ -1,0 +1,4 @@
+# Ingenious Cade / 巧手卡德 / 巧手卡德
+id = "ingenious-cade"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

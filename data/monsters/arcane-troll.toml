@@ -1,0 +1,4 @@
+# Arcane Troll / 奥术巨魔 / 奧術巨魔
+id = "arcane-troll"
+
+elementImmunities = ["arcane"]

@@ -1,0 +1,4 @@
+# Atlas of Olympia / 奥林匹亚之阿特拉斯 / 奧林匹亞的阿特拉斯
+id = "atlas-of-olympia"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

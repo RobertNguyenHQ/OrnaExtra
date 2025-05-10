@@ -1,0 +1,4 @@
+# Fallen Deity / 堕落禘耶禔 / 墮落禘耶禔
+id = "fallen-deity"
+
+statusImmunities = ["frozen", "paralyzed", "rot", "blind", "asleep"]

@@ -1,0 +1,5 @@
+# Firefly / 萤火虫 / 螢火蟲
+id = "firefly"
+
+elementWeaknesses = ["water"]
+elementImmunities = ["fire"]

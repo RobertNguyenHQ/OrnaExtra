@@ -1,0 +1,4 @@
+# Turul / 图鲁 / 圖魯
+id = "turul"
+
+elementImmunities = ["lightning"]

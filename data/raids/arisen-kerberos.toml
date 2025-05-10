@@ -1,0 +1,5 @@
+# Arisen Kerberos / 重生刻耳柏洛斯 / 重生刻耳柏洛斯
+id = "arisen-kerberos"
+
+elementImmunities = ["dark", "holy", "dragon"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

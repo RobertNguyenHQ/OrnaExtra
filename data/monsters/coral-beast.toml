@@ -1,0 +1,5 @@
+# Coral Beast / 珊瑚野兽 / 珊瑚野獸
+id = "coral-beast"
+
+elementWeaknesses = ["lightning"]
+statusImmunities = ["poisoned", "blight"]

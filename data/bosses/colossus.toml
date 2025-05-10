@@ -1,0 +1,5 @@
+# Colossus / 巨像 / 巨像
+id = "colossus"
+
+elementWeaknesses = ["water"]
+statusImmunities = ["asleep", "petrified"]

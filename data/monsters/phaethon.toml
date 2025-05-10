@@ -1,0 +1,5 @@
+# Phaethon / 法厄同 / 法厄同
+id = "phaethon"
+
+elementWeaknesses = ["dark"]
+elementImmunities = ["holy"]

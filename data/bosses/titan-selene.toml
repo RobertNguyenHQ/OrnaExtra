@@ -1,0 +1,6 @@
+# Titan Selene / 泰坦塞勒涅 / 泰坦塞勒涅
+id = "titan-selene"
+
+elementWeaknesses = ["fire", "holy"]
+elementImmunities = ["earthen", "dark"]
+statusImmunities = ["bleeding", "frozen", "paralyzed", "rot", "blind", "asleep", "petrified"]

@@ -1,0 +1,6 @@
+# Fallen Thor, the Storm God / 堕落雷神索尔 / 墮落雷神索爾
+id = "fallen-thor-the-storm-god"
+
+elementWeaknesses = ["earthen"]
+elementImmunities = ["lightning"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

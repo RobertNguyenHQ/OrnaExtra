@@ -1,0 +1,6 @@
+# Ghost / 鬼 / 鬼
+id = "ghost-6719abf3"
+
+elementWeaknesses = ["holy"]
+elementImmunities = ["physical"]
+statusImmunities = ["asleep"]

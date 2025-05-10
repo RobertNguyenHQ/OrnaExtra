@@ -1,0 +1,5 @@
+# Second Horseman / 第二骑士 / 第二騎士
+id = "second-horseman"
+
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

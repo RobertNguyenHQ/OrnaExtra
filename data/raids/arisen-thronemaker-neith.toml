@@ -1,0 +1,4 @@
+# Arisen Thronemaker Neith / 重生造王者涅伊特 / 重生造王者妮絲
+id = "arisen-thronemaker-neith"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

@@ -1,0 +1,4 @@
+# Havel / Havel / Havel
+id = "havel"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

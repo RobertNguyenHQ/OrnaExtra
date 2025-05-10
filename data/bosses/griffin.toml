@@ -1,0 +1,4 @@
+# Griffin / 格里芬 / 格里芬
+id = "griffin"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "asleep", "blight"]

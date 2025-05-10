@@ -1,0 +1,5 @@
+# Mammon / 玛门 / 瑪門
+id = "mammon"
+
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

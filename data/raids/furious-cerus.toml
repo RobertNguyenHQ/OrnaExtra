@@ -1,0 +1,4 @@
+# Furious Cerus / 狂怒金牛凯鲁斯 / 狂怒凱魯斯
+id = "furious-cerus"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

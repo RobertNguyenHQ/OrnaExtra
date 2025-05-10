@@ -1,0 +1,6 @@
+# Storm Core / 风暴之核 / 風暴核心
+id = "storm-core"
+
+elementWeaknesses = ["earthen"]
+elementImmunities = ["lightning"]
+statusImmunities = ["paralyzed"]

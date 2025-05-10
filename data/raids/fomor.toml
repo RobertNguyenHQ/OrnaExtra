@@ -1,0 +1,4 @@
+# Fomor / 弗摩尔 / 弗摩爾
+id = "fomor"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

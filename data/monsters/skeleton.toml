@@ -1,0 +1,5 @@
+# Skeleton / 骷髅 / 骷髏頭
+id = "skeleton"
+
+elementWeaknesses = ["holy"]
+statusImmunities = ["bleeding", "burning"]

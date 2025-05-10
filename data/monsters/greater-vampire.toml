@@ -1,0 +1,4 @@
+# Greater Vampire / 高等吸血鬼 / 高等吸血鬼
+id = "greater-vampire"
+
+elementWeaknesses = ["holy"]

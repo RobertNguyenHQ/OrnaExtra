@@ -1,0 +1,4 @@
+# Lyonesse Warlock / 里昂内斯术士 / 里昂內斯術士
+id = "lyonesse-warlock"
+
+elementWeaknesses = ["dark"]

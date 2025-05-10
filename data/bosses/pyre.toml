@@ -1,0 +1,6 @@
+# Pyre / 派磊 / 派磊
+id = "pyre"
+
+elementWeaknesses = ["water"]
+elementImmunities = ["fire"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

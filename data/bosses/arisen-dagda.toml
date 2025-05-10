@@ -1,0 +1,6 @@
+# Arisen Dagda / 重生达格达 / 重生的達格達
+id = "arisen-dagda"
+
+elementWeaknesses = ["arcane"]
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "asleep", "stunned", "petrified"]

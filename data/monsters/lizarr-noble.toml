@@ -1,0 +1,5 @@
+# Lizarr Noble / 蜥蜴人贵族 / 蜥蜴人貴族
+id = "lizarr-noble"
+
+elementWeaknesses = ["lightning"]
+elementImmunities = ["water", "fire"]

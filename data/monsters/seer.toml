@@ -1,0 +1,4 @@
+# Seer / 眼怪 / 眼怪
+id = "seer"
+
+statusImmunities = ["blind"]

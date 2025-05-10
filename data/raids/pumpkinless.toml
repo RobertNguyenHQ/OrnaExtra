@@ -1,0 +1,5 @@
+# Pumpkinless / 南瓜头 -无头骑士- / 南無瓜
+id = "pumpkinless"
+
+elementWeaknesses = ["holy", "arcane"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "def_d", "def_dd", "res_d", "res_dd"]

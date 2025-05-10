@@ -1,0 +1,5 @@
+# Dangy / Dangy / Dangy
+id = "dangy"
+
+elementWeaknesses = ["dark"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

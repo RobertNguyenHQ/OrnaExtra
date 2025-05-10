@@ -1,0 +1,5 @@
+# King Gradlon / 格拉德隆王 / 格拉德隆王
+id = "king-gradlon"
+
+elementWeaknesses = ["dark"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

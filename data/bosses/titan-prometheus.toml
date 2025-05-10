@@ -1,0 +1,6 @@
+# Titan Prometheus / 泰坦普罗米修斯 / 泰坦普羅米修斯
+id = "titan-prometheus"
+
+elementWeaknesses = ["water"]
+elementImmunities = ["fire", "lightning"]
+statusImmunities = ["bleeding", "burning", "frozen", "paralyzed", "blind", "asleep"]

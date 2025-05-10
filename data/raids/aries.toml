@@ -1,0 +1,4 @@
+# Aries / 亚力士 / 亞力士
+id = "aries"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

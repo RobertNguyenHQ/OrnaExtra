@@ -1,0 +1,5 @@
+# Fallen Realmshifter / 堕落的域界易形者 / 墮落的域界易形者
+id = "fallen-realmshifter"
+
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["frozen", "paralyzed", "rot", "blind", "asleep"]

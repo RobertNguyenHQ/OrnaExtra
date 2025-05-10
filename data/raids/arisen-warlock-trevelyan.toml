@@ -1,0 +1,4 @@
+# Arisen Warlock Trevelyan / 重生术士特里维廉 / 重生術士特里維廉
+id = "arisen-warlock-trevelyan"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "t__res_d", "res_d", "res_dd"]

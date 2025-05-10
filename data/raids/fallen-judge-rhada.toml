@@ -1,0 +1,5 @@
+# Fallen Judge Rhada / 堕落判官拉达 / 墮落判官拉達
+id = "fallen-judge-rhada"
+
+elementImmunities = ["dark", "holy"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

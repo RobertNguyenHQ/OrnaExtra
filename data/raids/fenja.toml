@@ -1,0 +1,4 @@
+# Fenja / 芬妮雅 / 芬雅
+id = "fenja"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "mag_d", "t__mag_d"]

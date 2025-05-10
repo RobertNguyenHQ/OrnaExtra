@@ -1,0 +1,4 @@
+# Fey Jormungandr / 变异耶梦加得 / 變異耶夢加德
+id = "fey-jormungandr"
+
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

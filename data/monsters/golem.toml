@@ -1,0 +1,5 @@
+# Golem / 魔像 / 魔像
+id = "golem"
+
+elementWeaknesses = ["water", "fire", "lightning", "dark", "holy"]
+statusImmunities = ["petrified"]

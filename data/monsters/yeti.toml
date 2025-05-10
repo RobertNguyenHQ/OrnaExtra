@@ -1,0 +1,5 @@
+# Yeti / 雪怪 / 雪怪
+id = "yeti"
+
+elementImmunities = ["water"]
+statusImmunities = ["frozen"]

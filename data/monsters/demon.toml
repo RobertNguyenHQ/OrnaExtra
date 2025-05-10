@@ -1,0 +1,5 @@
+# Demon / 恶魔 / 惡魔
+id = "demon"
+
+elementWeaknesses = ["holy"]
+elementImmunities = ["dark"]

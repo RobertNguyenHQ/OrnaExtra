@@ -1,0 +1,5 @@
+# Mighty Mimic / 究极宝箱怪 / 究極寶箱怪
+id = "mighty-mimic"
+
+elementImmunities = ["water", "fire", "lightning", "earthen", "dark", "holy", "arcane", "physical"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "t__mag_dd"]

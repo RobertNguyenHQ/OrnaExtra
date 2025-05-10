@@ -1,0 +1,6 @@
+# Frost Core / 寒霜之核 / 寒霜核心
+id = "frost-core"
+
+elementWeaknesses = ["fire"]
+elementImmunities = ["water"]
+statusImmunities = ["frozen"]
