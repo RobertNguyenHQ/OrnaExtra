@@ -1,4 +1,5 @@
 # Cockatrice / 鸡蛇 / 雞蛇
 id = "cockatrice"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]
+elementWeaknesses = [ "fire" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]
