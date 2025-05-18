@@ -1,4 +1,5 @@
 # Arisen Eistla / 重生艾斯特拉 / 重生艾斯特拉
 id = "arisen-eistla"
 
-elementWeaknesses = ["lightning"]
+elementWeaknesses = [ "lightning" ]
+elementResistances = [ "water", "fire", "earthen" ]
