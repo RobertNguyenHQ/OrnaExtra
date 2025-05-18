@@ -1,5 +1,6 @@
 # Arisen Mammon / 重生玛门 / 重生瑪門
 id = "arisen-mammon"
 
-elementImmunities = ["dark", "holy"]
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]
+elementImmunities = [ "dark", "holy" ]
+elementResistances = [ "dragon", "arcane" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]
