@@ -1,4 +1,6 @@
 # Cerberus / 地狱三头犬 / 地獄三頭犬
 id = "cerberus"
 
-elementImmunities = ["fire"]
+elementWeaknesses = [ "water", "lightning" ]
+elementImmunities = [ "fire" ]
+elementResistances = [ "dark" ]
