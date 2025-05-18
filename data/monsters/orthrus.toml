@@ -1,3 +1,4 @@
 # Orthrus / 欧特鲁斯 / 歐西魯斯
 id = "orthrus"
 
+elementWeaknesses = [ "fire" ]
