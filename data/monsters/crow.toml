@@ -1,3 +1,4 @@
 # Crow / 乌鸦 / 烏鴉
 id = "crow"
 
+elementResistances = [ "earthen" ]
