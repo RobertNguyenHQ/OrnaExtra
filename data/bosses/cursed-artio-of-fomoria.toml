@@ -1,4 +1,5 @@
 # Cursed Artio of Fomoria / 弗摩尔之诅咒的阿尔提奥 / 受詛咒的弗摩爾族之阿蒂奧
 id = "cursed-artio-of-fomoria"
 
-elementImmunities = ["lightning", "dark"]
+elementImmunities = [ "lightning", "dark" ]
+elementResistances = [ "earthen" ]
