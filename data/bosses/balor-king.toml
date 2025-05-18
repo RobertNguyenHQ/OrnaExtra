@@ -1,4 +1,5 @@
 # Balor King / 巴罗尔王 / 巴羅爾王
 id = "balor-king"
 
-elementWeaknesses = ["arcane"]
+elementWeaknesses = [ "arcane" ]
+elementResistances = [ "dark" ]
