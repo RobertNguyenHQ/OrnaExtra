@@ -1,4 +1,6 @@
 # Woodland Lord / 林地之主 / 林地之主
 id = "woodland-lord"
 
-elementImmunities = ["water", "fire", "lightning"]
+elementWeaknesses = [ "water" ]
+elementImmunities = [ "fire", "lightning" ]
+elementResistances = [ "dark", "holy", "dragon" ]
