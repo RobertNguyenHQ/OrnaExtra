@@ -1,5 +1,6 @@
 # Cthulhu / 克苏鲁 / 克蘇魯
 id = "cthulhu"
 
-elementImmunities = ["water", "fire"]
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]
+elementImmunities = [ "water", "fire" ]
+elementResistances = [ "dark", "holy" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]
