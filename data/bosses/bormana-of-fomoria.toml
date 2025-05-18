@@ -1,5 +1,6 @@
 # Bormana of Fomoria / 弗摩尔之波尔玛纳 / 弗摩爾族之波爾瑪納
 id = "bormana-of-fomoria"
 
-elementWeaknesses = ["lightning"]
-elementImmunities = ["earthen"]
+elementWeaknesses = [ "lightning" ]
+elementImmunities = [ "earthen" ]
+elementResistances = [ "water", "holy" ]
