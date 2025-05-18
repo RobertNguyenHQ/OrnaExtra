@@ -1,4 +1,6 @@
 # Ortanite Golem / 欧坦尼魔像 / 歐坦尼魔像
 id = "ortanite-golem"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]
+elementWeaknesses = [ "water" ]
+elementImmunities = [ "fire", "lightning", "earthen" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]
