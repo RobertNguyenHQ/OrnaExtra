@@ -1,3 +1,5 @@
 # Camazotz / 卡马佐兹 / 卡馬佐茲
 id = "camazotz-ebd4bcbf"
 
+elementWeaknesses = [ "water" ]
+elementResistances = [ "earthen", "dark" ]
