@@ -1,4 +1,5 @@
 # Arisen Cursed Goibhniu of Fomoria / 弗摩尔之重生诅咒的戈夫努 / 重生受詛咒的弗摩爾族之戈夫紐
 id = "arisen-cursed-goibhniu-of-fomoria"
 
-elementImmunities = ["earthen"]
+elementImmunities = [ "earthen" ]
+elementResistances = [ "lightning", "holy" ]
