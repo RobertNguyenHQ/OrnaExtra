@@ -1,5 +1,6 @@
 # Cursed Caticatona of Fomoria / 弗摩尔之诅咒的卡蒂卡托娜 / 受詛咒的弗摩爾族之卡卡托娜
 id = "cursed-caticatona-of-fomoria"
 
-elementWeaknesses = ["lightning"]
-elementImmunities = ["holy"]
+elementWeaknesses = [ "lightning" ]
+elementImmunities = [ "holy" ]
+elementResistances = [ "water", "earthen" ]
