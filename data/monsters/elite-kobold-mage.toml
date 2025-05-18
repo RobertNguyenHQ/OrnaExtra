@@ -1,3 +1,5 @@
 # Elite Kobold Mage / 精英地精法师 / 高端地精法師
 id = "elite-kobold-mage"
 
+elementResistances = [ "dark", "holy", "dragon" ]
+elementWeaknesses = [ "fire" ]
