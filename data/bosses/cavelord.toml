@@ -1,4 +1,5 @@
 # Cavelord / 岩窟王 / 巖窟王
 id = "cavelord"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]
+elementWeaknesses = [ "lightning" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]
