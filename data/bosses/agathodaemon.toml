@@ -1,5 +1,6 @@
 # Agathodaemon / 阿伽忒俄斯 / 阿伽忒俄斯
 id = "agathodaemon"
 
-elementWeaknesses = ["dragon"]
-statusImmunities = ["burning", "blight"]
+elementWeaknesses = [ "dragon" ]
+elementResistances = [ "fire", "lightning" ]
+statusImmunities = [ "burning", "blight" ]
