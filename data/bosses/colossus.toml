@@ -1,5 +1,6 @@
 # Colossus / 巨像 / 巨像
 id = "colossus"
 
-elementWeaknesses = ["water"]
-statusImmunities = ["asleep", "petrified"]
+elementWeaknesses = [ "water" ]
+elementResistances = [ "fire", "lightning", "earthen", "dark", "holy", "dragon", "physical" ]
+statusImmunities = [ "asleep", "petrified" ]
