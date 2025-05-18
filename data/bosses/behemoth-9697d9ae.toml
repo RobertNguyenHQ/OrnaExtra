@@ -1,4 +1,5 @@
 # Behemoth / 贝西摩斯 / 貝西摩斯
 id = "behemoth-9697d9ae"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]
+elementWeaknesses = [ "fire" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]
