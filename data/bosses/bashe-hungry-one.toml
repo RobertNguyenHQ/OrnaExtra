@@ -1,6 +1,7 @@
 # Bashe, Hungry One / 饥饿之巴蛇 / 飢餓之巴蛇
 id = "bashe-hungry-one"
 
-elementWeaknesses = ["dragon"]
-elementImmunities = ["dark", "holy"]
-statusImmunities = ["burning", "frozen", "paralyzed", "rot", "blind", "asleep", "petrified"]
+elementWeaknesses = [ "dragon" ]
+elementImmunities = [ "dark", "holy" ]
+elementResistances = [ "fire", "lightning" ]
+statusImmunities = [ "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "petrified" ]
