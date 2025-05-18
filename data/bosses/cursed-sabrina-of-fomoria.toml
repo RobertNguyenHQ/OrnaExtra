@@ -1,5 +1,6 @@
 # Cursed Sabrina of Fomoria / 弗摩尔之诅咒的萨布丽娜 / 受詛咒的弗摩爾族之莎賓娜
 id = "cursed-sabrina-of-fomoria"
 
-elementWeaknesses = ["lightning", "dark"]
-elementImmunities = ["water", "fire"]
+elementWeaknesses = [ "lightning", "dark" ]
+elementImmunities = [ "water", "fire" ]
+elementResistances = [ "earthen", "holy" ]
