@@ -1,4 +1,5 @@
 # Baldr / 巴德尔 / 巴德爾
 id = "baldr"
 
-statusImmunities = ["burning", "frozen", "paralyzed", "rot", "blind", "blight"]
+elementWeaknesses = [ "water" ]
+statusImmunities = [ "burning", "frozen", "paralyzed", "rot", "blind", "blight" ]
