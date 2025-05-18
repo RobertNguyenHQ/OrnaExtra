@@ -1,4 +1,5 @@
 # Aegir / 埃吉尔 / 埃吉爾
 id = "aegir"
 
-elementWeaknesses = ["lightning"]
+elementWeaknesses = [ "lightning" ]
+elementResistances = [ "water", "fire", "earthen" ]
