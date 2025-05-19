@@ -1,3 +1,4 @@
 # Hobgoblin / 巨型哥布林 / 巨型哥布林
 id = "hobgoblin"
 
+elementWeaknesses = [ "fire" ]
