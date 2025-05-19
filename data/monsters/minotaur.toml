@@ -1,3 +1,4 @@
 # Minotaur (Arisen) / 牛头怪 (重生者) / 牛頭怪 (重生者)
 id = "minotaur"
 
+elementWeaknesses = [ "earthen" ]
