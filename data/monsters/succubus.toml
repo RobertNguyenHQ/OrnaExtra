@@ -1,3 +1,4 @@
 # Succubus / 魅魔 / 魅魔
 id = "succubus"
 
+elementResistances = [ "earthen" ]
