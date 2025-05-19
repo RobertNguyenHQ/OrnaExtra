@@ -1,5 +1,6 @@
 # Illuyanka, Made of Stone / 铁石之伊卢扬卡 / 鐵石之伊盧揚卡
 id = "illuyanka-made-of-stone"
 
-elementWeaknesses = ["dragon"]
-statusImmunities = ["blight", "petrified"]
+elementWeaknesses = [ "dragon" ]
+elementResistances = [ "fire", "lightning" ]
+statusImmunities = [ "blight", "petrified" ]
