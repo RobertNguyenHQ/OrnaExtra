@@ -1,5 +1,6 @@
 # Goibhniu of Fomoria / 弗摩尔之戈夫努 / 弗摩爾族之戈夫紐
 id = "goibhniu-of-fomoria"
 
-elementWeaknesses = ["water", "lightning"]
-elementImmunities = ["dark"]
+elementWeaknesses = [ "water", "lightning" ]
+elementImmunities = [ "dark" ]
+elementResistances = [ "fire", "holy" ]
