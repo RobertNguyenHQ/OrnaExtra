@@ -1,5 +1,6 @@
 # Covyn / Covyn / Covyn
 id = "covyn"
 
-elementWeaknesses = ["arcane"]
-statusImmunities = ["poisoned", "bleeding", "burning", "windswept", "frozen", "paralyzed", "rot", "blind", "asleep", "drenched", "stunned", "blight", "petrified", "stasis"]
+elementWeaknesses = [ "arcane" ]
+elementResistances = [ "dark", "holy" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "windswept", "frozen", "paralyzed", "rot", "blind", "asleep", "drenched", "stunned", "blight", "petrified", "stasis" ]
