@@ -1,3 +1,4 @@
 # Draconian Lord (Arisen) / 德肯尼亚族之主 (重生者) / 德肯尼亞族之主 (重生者)
 id = "draconian-lord"
 
+elementWeaknesses = [ "lightning" ]
