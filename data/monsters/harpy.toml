@@ -1,3 +1,5 @@
 # Harpy / 鹰身女妖 / 鷹身女妖
 id = "harpy"
 
+elementWeaknesses = [ "water" ]
+elementResistances = [ "earthen" ]
