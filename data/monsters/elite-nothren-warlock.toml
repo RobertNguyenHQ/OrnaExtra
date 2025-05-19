@@ -1,4 +1,5 @@
 # Elite Nothren Warlock / 精英北族术士 / 高端北族術士
 id = "elite-nothren-warlock"
 
-statusImmunities = ["frozen"]
+elementResistances = [ "water" ]
+statusImmunities = [ "frozen" ]
