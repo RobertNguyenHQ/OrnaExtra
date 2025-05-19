@@ -1,3 +1,4 @@
 # Anteros Guard / 安忒洛斯守卫 / 安特羅斯守衛
 id = "anteros-guard"
 
+elementResistances = [ "water", "fire", "lightning", "earthen" ]
