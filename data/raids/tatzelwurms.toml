@@ -1,5 +1,6 @@
 # Tatzelwurms / 塔佐蠕虫 / 塔佐蠕蟲
 id = "tatzelwurms"
 
-elementWeaknesses = ["dragon"]
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]
+elementWeaknesses = [ "dragon" ]
+elementResistances = [ "fire", "lightning" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]
