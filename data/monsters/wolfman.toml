@@ -1,3 +1,4 @@
 # Wolfman / 狼人 / 狼人
 id = "wolfman"
 
+elementWeaknesses = [ "lightning" ]
