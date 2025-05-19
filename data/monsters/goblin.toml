@@ -1,3 +1,4 @@
 # Goblin / 哥布林 / 哥布林
 id = "goblin"
 
+elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
