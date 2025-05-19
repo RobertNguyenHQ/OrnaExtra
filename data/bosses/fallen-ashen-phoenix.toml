@@ -1,5 +1,6 @@
 # Fallen Ashen Phoenix / 堕落苍白凤凰 / 墮落蒼白鳳凰
 id = "fallen-ashen-phoenix"
 
-elementImmunities = ["fire"]
-statusImmunities = ["burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight", "petrified"]
+elementImmunities = [ "fire" ]
+elementResistances = [ "lightning", "holy" ]
+statusImmunities = [ "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight", "petrified" ]
