@@ -1,4 +1,6 @@
 # Finfolk / 芬菲克 / 芬菲克
 id = "finfolk"
 
-elementImmunities = ["water"]
+elementWeaknesses = [ "lightning" ]
+elementImmunities = [ "water" ]
+elementResistances = [ "fire" ]
