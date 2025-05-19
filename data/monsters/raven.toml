@@ -1,3 +1,4 @@
 # Raven / 渡鸦 / 渡鴉
 id = "raven"
 
+elementResistances = [ "water", "earthen" ]
