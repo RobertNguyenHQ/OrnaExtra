@@ -1,3 +1,4 @@
 # Lich / 巫妖 / 巫妖
 id = "lich"
 
+elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
