@@ -1,3 +1,4 @@
 # Small Mollusc / 小章鱼 / 小軟體動物
 id = "small-mollusc"
 
+elementResistances = [ "water", "fire" ]
