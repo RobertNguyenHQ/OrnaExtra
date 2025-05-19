@@ -1,3 +1,5 @@
 # Hawk / 鹰 / 鷹
 id = "hawk"
 
+elementWeaknesses = [ "water", "lightning" ]
+elementResistances = [ "earthen" ]
