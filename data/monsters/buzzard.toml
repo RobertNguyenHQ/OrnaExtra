@@ -1,3 +1,4 @@
 # Buzzard / 秃鹰 / 禿鷹
 id = "buzzard"
 
+elementWeaknesses = [ "water", "earthen" ]
