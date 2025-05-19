@@ -1,3 +1,4 @@
 # Elite Fomorian / 精英弗摩尔族 / 高端弗摩爾族
 id = "elite-fomorian"
 
+elementWeaknesses = [ "lightning" ]
