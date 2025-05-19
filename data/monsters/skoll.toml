@@ -1,4 +1,5 @@
 # Skoll / 斯刻尔 / 斯科爾
 id = "skoll"
 
-elementImmunities = ["dark"]
+elementImmunities = [ "dark" ]
+elementResistances = [ "holy" ]
