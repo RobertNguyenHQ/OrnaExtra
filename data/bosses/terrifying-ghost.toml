@@ -1,6 +1,7 @@
 # Terrifying Ghost / 恐慌幽灵 / 恐慌幽靈
 id = "terrifying-ghost"
 
-elementWeaknesses = ["holy"]
-elementImmunities = ["dark", "physical"]
-statusImmunities = ["asleep"]
+elementWeaknesses = [ "holy" ]
+elementImmunities = [ "dark", "physical" ]
+elementResistances = [ "water", "lightning" ]
+statusImmunities = [ "asleep" ]
