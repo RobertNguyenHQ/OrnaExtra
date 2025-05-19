@@ -1,4 +1,5 @@
 # Fafnir (Arisen) / 法夫纳 (重生者) / 法夫納 (重生者)
 id = "fafnir"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]
+elementResistances = [ "dark", "holy" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]
