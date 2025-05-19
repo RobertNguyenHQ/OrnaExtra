@@ -1,3 +1,5 @@
 # Dark Elf Mage / 黑暗精灵法师 / 黑暗精靈法師
 id = "dark-elf-mage"
 
+elementWeaknesses = [ "water" ]
+elementResistances = [ "fire", "lightning", "earthen", "dark", "holy" ]
