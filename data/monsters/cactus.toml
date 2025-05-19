@@ -1,4 +1,5 @@
 # Cactus / 仙人掌 / 仙人掌
 id = "cactus"
 
-elementWeaknesses = ["fire"]
+elementWeaknesses = [ "fire" ]
+elementImmunities = [ "water" ]
