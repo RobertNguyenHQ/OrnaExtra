@@ -1,4 +1,5 @@
 # Ferocious Cerus / 凶残金牛凯鲁斯 / 兇殘凱魯斯
 id = "ferocious-cerus"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]
+elementResistances = [ "fire" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]
