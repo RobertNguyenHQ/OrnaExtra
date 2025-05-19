@@ -1,4 +1,5 @@
 # Great Mimic / 强大的宝箱怪 / 強大的寶箱怪
 id = "great-mimic"
 
-elementImmunities = ["water", "fire", "lightning", "earthen", "dark", "holy"]
+elementImmunities = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
+elementResistances = [ "physical" ]
