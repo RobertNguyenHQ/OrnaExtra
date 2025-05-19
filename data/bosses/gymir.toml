@@ -1,4 +1,5 @@
 # Gymir / 盖密尔 / 蓋密爾
 id = "gymir"
 
-elementWeaknesses = ["lightning"]
+elementWeaknesses = [ "lightning" ]
+elementImmunities = [ "water", "fire", "earthen" ]
