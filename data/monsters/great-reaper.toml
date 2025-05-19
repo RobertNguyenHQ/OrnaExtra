@@ -1,5 +1,6 @@
 # Great Reaper / 强大的死神 / 強大的死神
 id = "great-reaper"
 
-elementImmunities = ["dark"]
-statusImmunities = ["poisoned", "asleep", "blight"]
+elementImmunities = [ "dark" ]
+elementResistances = [ "dragon", "arcane" ]
+statusImmunities = [ "poisoned", "asleep", "blight" ]
