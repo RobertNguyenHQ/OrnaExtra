@@ -1,5 +1,6 @@
 # Orochi / 八岐大蛇 / 八岐大蛇
 id = "orochi"
 
-elementWeaknesses = ["dragon"]
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]
+elementWeaknesses = [ "dragon" ]
+elementResistances = [ "fire", "lightning" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]
