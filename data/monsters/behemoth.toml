@@ -1,4 +1,5 @@
 # Behemoth (Arisen) / 贝西摩斯 (重生者) / 貝西摩斯 (重生者)
 id = "behemoth"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]
+elementWeaknesses = [ "fire" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]
