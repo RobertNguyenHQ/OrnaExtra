@@ -1,4 +1,5 @@
 # Lizarr Warrior / 蜥蜴人战士 / 蜥蜴人戰士
 id = "lizarr-warrior"
 
-elementWeaknesses = ["lightning"]
+elementWeaknesses = [ "lightning" ]
+elementResistances = [ "water", "fire" ]
