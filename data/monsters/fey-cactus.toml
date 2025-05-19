@@ -1,5 +1,6 @@
 # Fey Cactus / 变异仙人掌 / 變異仙人掌
 id = "fey-cactus"
 
-elementWeaknesses = ["fire"]
-elementImmunities = ["earthen"]
+elementWeaknesses = [ "fire" ]
+elementImmunities = [ "earthen" ]
+elementResistances = [ "water", "lightning" ]
