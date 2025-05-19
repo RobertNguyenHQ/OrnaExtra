@@ -1,5 +1,6 @@
 # Phoenix / 凤凰 / 鳳凰
 id = "phoenix"
 
-elementImmunities = ["fire"]
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]
+elementImmunities = [ "fire" ]
+elementResistances = [ "lightning" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]
