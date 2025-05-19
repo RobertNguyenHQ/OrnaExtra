@@ -1,3 +1,4 @@
 # Great Jinn / 大神灯精灵 / 大神燈精靈
 id = "great-jinn"
 
+elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
