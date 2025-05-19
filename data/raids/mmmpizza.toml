@@ -1,4 +1,5 @@
 # MmmPizza / MmmPizza / MmmPizza
 id = "mmmpizza"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]
+elementResistances = [ "fire" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]
