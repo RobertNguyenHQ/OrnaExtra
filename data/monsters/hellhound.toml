@@ -1,3 +1,4 @@
 # Hellhound / 地狱犬 / 地獄犬
 id = "hellhound"
 
+elementResistances = [ "dark" ]
