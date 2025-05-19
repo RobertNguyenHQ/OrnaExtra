@@ -1,5 +1,6 @@
 # Jelly / 果冻 / 果凍
 id = "jelly"
 
-elementWeaknesses = ["lightning"]
-elementImmunities = ["water"]
+elementWeaknesses = [ "lightning" ]
+elementImmunities = [ "water" ]
+elementResistances = [ "fire", "physical" ]
