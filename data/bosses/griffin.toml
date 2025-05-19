@@ -1,4 +1,6 @@
 # Griffin / 格里芬 / 格里芬
 id = "griffin"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "asleep", "blight"]
+elementWeaknesses = [ "lightning" ]
+elementResistances = [ "earthen" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "asleep", "blight" ]
