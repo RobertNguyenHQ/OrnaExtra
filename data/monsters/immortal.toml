@@ -1,4 +1,5 @@
 # Immortal / 不朽者 / 不朽者
 id = "immortal"
 
-statusImmunities = ["blind", "asleep", "stunned", "blight"]
+elementResistances = [ "dark", "holy", "dragon", "arcane" ]
+statusImmunities = [ "blind", "asleep", "stunned", "blight" ]
