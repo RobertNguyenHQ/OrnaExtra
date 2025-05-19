@@ -1,4 +1,5 @@
 # Cerberus (Arisen) / 地狱三头犬 (重生者) / 地獄三頭犬 (重生者)
 id = "cerberus-c633f157"
 
-elementImmunities = ["fire", "dark"]
+elementWeaknesses = [ "earthen" ]
+elementImmunities = [ "fire", "dark" ]
