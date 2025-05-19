@@ -1,4 +1,5 @@
 # Giant Basilisk / 巨大巴西利斯克 / 巨大巴西利斯克
 id = "giant-basilisk"
 
-statusImmunities = ["poisoned", "blight"]
+elementWeaknesses = [ "water" ]
+statusImmunities = [ "poisoned", "blight" ]
