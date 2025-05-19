@@ -1,4 +1,5 @@
 # Nothren Berserker / 北族狂战士 / 北族狂戰士
 id = "nothren-berserker"
 
-statusImmunities = ["frozen"]
+elementResistances = [ "water" ]
+statusImmunities = [ "frozen" ]
