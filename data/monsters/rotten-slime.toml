@@ -1,4 +1,5 @@
 # Rotten Slime / 腐烂史莱姆 / 腐爛史萊姆
 id = "rotten-slime"
 
-statusImmunities = ["poisoned"]
+elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
+statusImmunities = [ "poisoned" ]
