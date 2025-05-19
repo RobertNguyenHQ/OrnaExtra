@@ -1,5 +1,6 @@
 # Zaltys, Friendly One / 善意之萨勒蒂斯 / 善意之薩勒蒂斯
 id = "zaltys-friendly-one"
 
-elementWeaknesses = ["dragon"]
-statusImmunities = ["frozen", "blight"]
+elementWeaknesses = [ "dragon" ]
+elementResistances = [ "fire", "lightning" ]
+statusImmunities = [ "frozen", "blight" ]
