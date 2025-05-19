@@ -1,4 +1,5 @@
 # Nothren Valkyrie / 北族女武神 / 北族女武神
 id = "nothren-valkyrie"
 
-statusImmunities = ["frozen"]
+elementResistances = [ "water" ]
+statusImmunities = [ "frozen" ]
