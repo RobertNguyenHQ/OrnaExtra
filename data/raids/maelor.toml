@@ -1,5 +1,6 @@
 # Maelor / 梅勒 / 梅勒
 id = "maelor"
 
-elementImmunities = ["dark"]
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]
+elementImmunities = [ "dark" ]
+elementResistances = [ "fire", "lightning" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]
