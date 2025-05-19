@@ -1,5 +1,6 @@
 # Ebon Scruug / 黑之史古基 / 黑之史古基
 id = "ebon-scruug"
 
-elementImmunities = ["dark"]
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]
+elementImmunities = [ "dark" ]
+elementResistances = [ "water" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]
