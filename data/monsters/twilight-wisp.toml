@@ -1,4 +1,5 @@
 # Twilight Wisp / 黎明幽光 / 黎明幽光
 id = "twilight-wisp"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]
+elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy", "dragon", "arcane", "physical" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]
