@@ -1,3 +1,4 @@
 # Anteros Ruffian / 安忒洛斯流氓 / 安特羅斯痞子
 id = "anteros-ruffian"
 
+elementResistances = [ "water", "fire", "lightning", "earthen" ]
