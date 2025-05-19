@@ -1,5 +1,6 @@
 # Coral Serpent / 珊瑚蛇人 / 珊瑚蛇人
 id = "coral-serpent"
 
-elementWeaknesses = ["lightning"]
-statusImmunities = ["poisoned", "blight"]
+elementWeaknesses = [ "lightning" ]
+elementResistances = [ "fire" ]
+statusImmunities = [ "poisoned", "blight" ]
