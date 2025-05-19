@@ -1,6 +1,7 @@
 # Flame / 火焰 / 火焰
 id = "flame"
 
-elementWeaknesses = ["water", "earthen"]
-elementImmunities = ["fire"]
-statusImmunities = ["burning"]
+elementWeaknesses = [ "water", "earthen" ]
+elementImmunities = [ "fire" ]
+elementResistances = [ "physical" ]
+statusImmunities = [ "burning" ]
