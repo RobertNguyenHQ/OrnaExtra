@@ -1,4 +1,5 @@
 # Ancient Gazer / 远古凝视者 / 遠古凝視者
 id = "ancient-gazer"
 
-elementWeaknesses = ["earthen"]
+elementWeaknesses = [ "earthen" ]
+elementResistances = [ "physical" ]
