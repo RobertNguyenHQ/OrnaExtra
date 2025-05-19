@@ -1,4 +1,6 @@
 # Nin-kilim / 宁-克利姆 / 寧-克寧姆
 id = "nin-kilim"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]
+elementWeaknesses = [ "earthen" ]
+elementResistances = [ "water", "fire", "lightning", "dark", "dragon" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]
