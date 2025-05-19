@@ -1,6 +1,7 @@
 # Glatisant / 吠兽 / 吠獸
 id = "glatisant"
 
-elementWeaknesses = ["dragon"]
-elementImmunities = ["fire"]
-statusImmunities = ["poisoned", "burning", "paralyzed", "stunned", "blight"]
+elementWeaknesses = [ "dragon" ]
+elementImmunities = [ "fire" ]
+elementResistances = [ "lightning" ]
+statusImmunities = [ "poisoned", "burning", "paralyzed", "stunned", "blight" ]
