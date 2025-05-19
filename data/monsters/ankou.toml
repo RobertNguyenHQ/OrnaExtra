@@ -1,5 +1,7 @@
 # Ankou (Arisen) / 安库 (重生者) / 安庫 (重生者)
 id = "ankou"
 
-elementImmunities = ["dark"]
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]
+elementWeaknesses = [ "fire" ]
+elementImmunities = [ "dark" ]
+elementResistances = [ "water", "lightning", "earthen" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]
