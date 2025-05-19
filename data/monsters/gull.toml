@@ -1,4 +1,5 @@
 # Gull / 海鸥 / 海鷗
 id = "gull"
 
-elementImmunities = ["earthen"]
+elementImmunities = [ "earthen" ]
+elementResistances = [ "water" ]
