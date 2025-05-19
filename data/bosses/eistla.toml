@@ -1,4 +1,5 @@
 # Eistla / 艾斯特拉 / 艾斯特拉
 id = "eistla"
 
-elementWeaknesses = ["lightning"]
+elementWeaknesses = [ "lightning" ]
+elementResistances = [ "water", "fire", "earthen" ]
