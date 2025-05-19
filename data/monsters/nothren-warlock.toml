@@ -1,4 +1,5 @@
 # Nothren Warlock / 北族术士 / 北族術士
 id = "nothren-warlock"
 
-statusImmunities = ["frozen"]
+elementResistances = [ "water" ]
+statusImmunities = [ "frozen" ]
