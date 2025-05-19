@@ -1,6 +1,7 @@
 # Scruug / 史古基 / 史古基
 id = "scruug"
 
-elementWeaknesses = ["fire"]
-elementImmunities = ["dark"]
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]
+elementWeaknesses = [ "fire" ]
+elementImmunities = [ "dark" ]
+elementResistances = [ "water" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]
