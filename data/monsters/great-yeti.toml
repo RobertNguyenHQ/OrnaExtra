@@ -1,5 +1,6 @@
 # Great Yeti / 大雪怪 / 大雪怪
 id = "great-yeti"
 
-elementImmunities = ["water"]
-statusImmunities = ["frozen"]
+elementWeaknesses = [ "fire" ]
+elementImmunities = [ "water" ]
+statusImmunities = [ "frozen" ]
