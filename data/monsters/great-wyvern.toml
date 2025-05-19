@@ -1,4 +1,5 @@
 # Great Wyvern / 大飞龙 / 大飛龍
 id = "great-wyvern"
 
-elementWeaknesses = ["dragon"]
+elementWeaknesses = [ "dragon" ]
+elementResistances = [ "water", "fire", "lightning", "dark", "holy", "physical" ]
