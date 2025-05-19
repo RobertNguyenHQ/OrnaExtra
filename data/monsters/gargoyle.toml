@@ -1,6 +1,7 @@
 # Gargoyle / 石像鬼 / 石像魔
 id = "gargoyle"
 
-elementWeaknesses = ["earthen"]
-elementImmunities = ["fire"]
-statusImmunities = ["asleep", "petrified"]
+elementWeaknesses = [ "water", "earthen" ]
+elementImmunities = [ "fire" ]
+elementResistances = [ "lightning", "dark", "holy" ]
+statusImmunities = [ "asleep", "petrified" ]
