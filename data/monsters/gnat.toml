@@ -1,3 +1,5 @@
 # Gnat / 蚋 / 蚋
 id = "gnat"
 
+elementWeaknesses = [ "fire" ]
+elementResistances = [ "earthen" ]
