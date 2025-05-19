@@ -1,3 +1,4 @@
 # Ronin / 浪人 / 浪人
 id = "ronin"
 
+elementWeaknesses = [ "fire" ]
