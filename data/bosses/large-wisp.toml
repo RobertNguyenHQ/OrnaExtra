@@ -1,3 +1,4 @@
 # Large Wisp / 大幽光 / 大幽光
 id = "large-wisp"
 
+elementResistances = [ "physical" ]
