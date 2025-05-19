@@ -1,4 +1,5 @@
 # Living Armor / 活盔甲 / 會動的盔甲
 id = "living-armor"
 
-elementWeaknesses = ["water", "fire", "lightning", "earthen", "dark", "holy"]
+elementWeaknesses = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
+elementResistances = [ "physical" ]
