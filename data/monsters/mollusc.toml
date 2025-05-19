@@ -1,3 +1,4 @@
 # Mollusc / 章鱼 / 軟體動物
 id = "mollusc"
 
+elementResistances = [ "water", "fire" ]
