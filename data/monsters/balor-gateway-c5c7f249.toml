@@ -1,6 +1,7 @@
 # Balor Gateway / 巴罗尔任意门 / 巴羅爾任意門
 id = "balor-gateway-c5c7f249"
 
-elementWeaknesses = ["arcane"]
-elementImmunities = ["fire", "lightning"]
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]
+elementWeaknesses = [ "arcane" ]
+elementImmunities = [ "fire", "lightning" ]
+elementResistances = [ "dark", "holy", "dragon" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]
