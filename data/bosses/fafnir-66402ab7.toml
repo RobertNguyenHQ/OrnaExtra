@@ -1,4 +1,5 @@
 # Fafnir / 法夫纳 / 法夫納
 id = "fafnir-66402ab7"
 
-elementWeaknesses = ["dragon"]
+elementWeaknesses = [ "dragon" ]
+elementResistances = [ "dark", "holy" ]
