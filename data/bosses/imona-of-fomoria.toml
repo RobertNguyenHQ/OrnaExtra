@@ -1,4 +1,5 @@
 # Imona of Fomoria / 弗摩尔之伊莫娜 / 弗摩爾族之埃莫那
 id = "imona-of-fomoria"
 
-elementImmunities = ["water", "earthen"]
+elementImmunities = [ "water", "earthen" ]
+elementResistances = [ "lightning", "holy" ]
