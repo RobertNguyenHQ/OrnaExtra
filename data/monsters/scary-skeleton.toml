@@ -1,5 +1,6 @@
 # Scary Skeleton / 恐怖骷髅 / 恐怖骷髏
 id = "scary-skeleton"
 
-elementWeaknesses = ["holy"]
-statusImmunities = ["bleeding", "burning"]
+elementWeaknesses = [ "holy" ]
+elementResistances = [ "dark" ]
+statusImmunities = [ "bleeding", "burning" ]
