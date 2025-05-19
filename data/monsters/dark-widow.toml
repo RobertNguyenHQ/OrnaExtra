@@ -1,4 +1,5 @@
 # Dark Widow / 暗黑寡妇 / 暗黑寡婦
 id = "dark-widow"
 
-statusImmunities = ["poisoned"]
+elementWeaknesses = [ "fire" ]
+statusImmunities = [ "poisoned" ]
