@@ -1,4 +1,5 @@
 # Nothren Lord / 北族领主 / 北族領主
 id = "nothren-lord"
 
-statusImmunities = ["frozen"]
+elementResistances = [ "water" ]
+statusImmunities = [ "frozen" ]
