@@ -1,6 +1,6 @@
 # Skeleton Rogue / 骷髅侠盗 / 骷髏俠盜
 id = "skeleton-rogue"
 
-elementWeaknesses = ["holy"]
-elementImmunities = ["dark"]
-statusImmunities = ["bleeding"]
+elementWeaknesses = [ "water", "holy" ]
+elementImmunities = [ "dark" ]
+statusImmunities = [ "bleeding" ]
