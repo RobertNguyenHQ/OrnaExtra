@@ -1,5 +1,6 @@
 # King Fomor, Wintara / 弗摩尔王温塔拉 / 弗摩爾王，溫塔拉
 id = "king-fomor-wintara"
 
-elementWeaknesses = ["water"]
-elementImmunities = ["lightning", "holy"]
+elementWeaknesses = [ "water" ]
+elementImmunities = [ "lightning", "holy" ]
+elementResistances = [ "earthen" ]
