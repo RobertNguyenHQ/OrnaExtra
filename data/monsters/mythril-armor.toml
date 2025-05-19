@@ -1,4 +1,5 @@
 # Mythril Armor / 秘银盔甲 / 秘銀盔甲
 id = "mythril-armor"
 
-elementWeaknesses = ["water", "fire", "lightning", "earthen", "dark", "holy"]
+elementWeaknesses = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
+elementResistances = [ "physical" ]
