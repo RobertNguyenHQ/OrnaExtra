@@ -1,4 +1,5 @@
 # Fallen Heretic / 堕落的赫勒提克 / 墮落的赫勒提克
 id = "fallen-heretic"
 
-statusImmunities = ["frozen", "paralyzed", "rot", "blind", "asleep"]
+elementResistances = [ "water", "fire", "lightning", "earthen" ]
+statusImmunities = [ "frozen", "paralyzed", "rot", "blind", "asleep" ]
