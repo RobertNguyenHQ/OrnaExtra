@@ -1,4 +1,5 @@
 # Arachne (Arisen) / 阿剌克涅 (重生者) / 阿剌克涅 (重生者)
 id = "arachne-e15f8316"
 
-elementWeaknesses = ["fire"]
+elementWeaknesses = [ "fire" ]
+statusImmunities = [ "poisoned", "paralyzed", "rot", "blight" ]
