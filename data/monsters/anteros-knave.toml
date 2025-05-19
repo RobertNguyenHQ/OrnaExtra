@@ -1,3 +1,4 @@
 # Anteros Knave / 安忒洛斯恶徒 / 安特羅斯惡棍
 id = "anteros-knave"
 
+elementResistances = [ "water", "fire", "lightning", "earthen" ]
