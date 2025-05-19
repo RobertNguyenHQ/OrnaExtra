@@ -1,4 +1,5 @@
 # Gazer / 凝视者 / 凝視者
 id = "gazer"
 
-elementImmunities = ["lightning"]
+elementImmunities = [ "lightning" ]
+elementResistances = [ "dark", "holy", "physical" ]
