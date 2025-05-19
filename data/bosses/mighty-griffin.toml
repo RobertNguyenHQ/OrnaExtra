@@ -1,4 +1,6 @@
 # Mighty Griffin / 究极格里芬 / 究極格里芬
 id = "mighty-griffin"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "asleep", "blight"]
+elementWeaknesses = [ "water" ]
+elementResistances = [ "lightning" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "asleep", "blight" ]
