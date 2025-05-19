@@ -1,4 +1,5 @@
 # Niskus of Fomoria / 弗摩尔之尼斯库斯 / 弗摩爾族之尼斯庫斯
 id = "niskus-of-fomoria"
 
-elementImmunities = ["earthen", "holy"]
+elementImmunities = [ "earthen", "holy" ]
+elementResistances = [ "dark" ]
