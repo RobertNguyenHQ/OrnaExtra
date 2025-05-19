@@ -1,3 +1,4 @@
 # Dark Elf / 黑暗精灵 / 黑暗精靈
 id = "dark-elf"
 
+elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
