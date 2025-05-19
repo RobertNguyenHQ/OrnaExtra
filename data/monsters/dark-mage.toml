@@ -1,5 +1,6 @@
 # Dark Mage / 暗黑法师 / 黑暗法師
 id = "dark-mage"
 
-elementWeaknesses = ["holy"]
-statusImmunities = ["bleeding"]
+elementWeaknesses = [ "holy" ]
+elementResistances = [ "water", "fire", "lightning", "earthen", "dark" ]
+statusImmunities = [ "bleeding" ]
