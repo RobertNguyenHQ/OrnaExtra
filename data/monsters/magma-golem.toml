@@ -1,4 +1,5 @@
 # Magma Golem / 熔岩魔像 / 熔岩魔像
 id = "magma-golem"
 
-elementWeaknesses = ["water", "fire", "lightning", "earthen", "dark", "holy"]
+elementWeaknesses = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
+elementResistances = [ "physical" ]
