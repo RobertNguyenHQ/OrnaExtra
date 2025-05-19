@@ -1,4 +1,5 @@
 # Odok Golem / 亡骸魔像 / 亡骸魔像
 id = "odok-golem"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "asleep", "blight"]
+elementResistances = [ "earthen", "dark", "arcane" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "asleep", "blight" ]
