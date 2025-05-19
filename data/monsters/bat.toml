@@ -1,3 +1,4 @@
 # Bat / 蝙蝠 / 蝙蝠
 id = "bat"
 
+elementResistances = [ "earthen" ]
