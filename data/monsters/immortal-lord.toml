@@ -1,4 +1,5 @@
 # Immortal Lord (Arisen) / 不朽领主 (重生者) / 不朽領主 (重生者)
 id = "immortal-lord"
 
-statusImmunities = ["blind", "asleep", "blight"]
+elementResistances = [ "dark", "holy", "dragon", "arcane" ]
+statusImmunities = [ "blind", "asleep", "stunned", "blight" ]
