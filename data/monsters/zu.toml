@@ -1,3 +1,5 @@
 # Zu / 安祖鸟 / 祖鳥
 id = "zu"
 
+elementWeaknesses = [ "water" ]
+elementResistances = [ "earthen" ]
