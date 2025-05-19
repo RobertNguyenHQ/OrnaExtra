@@ -1,4 +1,5 @@
 # Guivre / 蛇龙基威尔 / 蛇龍基威爾
 id = "guivre"
 
-statusImmunities = ["blight"]
+elementWeaknesses = [ "water" ]
+statusImmunities = [ "blight" ]
