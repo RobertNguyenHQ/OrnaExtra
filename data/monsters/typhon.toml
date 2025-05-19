@@ -1,4 +1,6 @@
 # Typhon (Arisen) / 堤丰 (重生者) / 堤豐 (重生者)
 id = "typhon"
 
-statusImmunities = ["blight"]
+elementWeaknesses = [ "water", "earthen" ]
+elementResistances = [ "fire", "dark", "holy" ]
+statusImmunities = [ "blight" ]
