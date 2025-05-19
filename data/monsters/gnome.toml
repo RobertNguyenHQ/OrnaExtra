@@ -1,3 +1,4 @@
 # Gnome / 侏儒 / 侏儒
 id = "gnome"
 
+elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy", "dragon" ]
