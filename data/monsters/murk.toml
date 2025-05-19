@@ -1,3 +1,4 @@
 # Murk / 泥沼怪 / 淤濁
 id = "murk"
 
+elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy", "dragon", "arcane" ]
