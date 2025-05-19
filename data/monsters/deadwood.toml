@@ -1,3 +1,4 @@
 # Deadwood / 死木 / 死木
 id = "deadwood"
 
+elementWeaknesses = [ "fire" ]
