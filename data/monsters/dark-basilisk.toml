@@ -1,4 +1,5 @@
 # Dark Basilisk / 暗黑巴西利斯克 / 暗黑巴西利斯克
 id = "dark-basilisk"
 
-statusImmunities = ["poisoned", "blight"]
+elementWeaknesses = [ "water" ]
+statusImmunities = [ "poisoned", "blight" ]
