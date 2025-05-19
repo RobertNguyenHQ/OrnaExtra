@@ -1,4 +1,5 @@
 # Tricky Aries / 狡诈之亚力士 / 狡詐的亞力士
 id = "tricky-aries"
 
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]
+elementResistances = [ "lightning" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]
