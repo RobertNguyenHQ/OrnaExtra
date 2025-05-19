@@ -1,5 +1,6 @@
 # Frightening Skeleton / 惊恐骷髅 / 驚恐骷髏
 id = "frightening-skeleton"
 
-elementWeaknesses = ["holy"]
-statusImmunities = ["bleeding", "burning"]
+elementWeaknesses = [ "holy" ]
+elementResistances = [ "dark" ]
+statusImmunities = [ "bleeding", "burning" ]
