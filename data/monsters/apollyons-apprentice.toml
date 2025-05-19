@@ -1,4 +1,5 @@
 # Apollyon's Apprentice / 亚玻伦的学徒 / 亞坡倫的學徒
 id = "apollyons-apprentice"
 
-elementImmunities = ["dark", "holy", "dragon", "arcane"]
+elementImmunities = [ "dark", "holy", "dragon", "arcane" ]
+elementResistances = [ "water", "fire", "lightning", "earthen" ]
