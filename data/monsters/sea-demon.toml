@@ -1,5 +1,6 @@
 # Sea Demon / 海恶魔 / 海惡魔
 id = "sea-demon"
 
-elementWeaknesses = ["lightning", "holy"]
-elementImmunities = ["water", "fire"]
+elementWeaknesses = [ "lightning", "holy" ]
+elementImmunities = [ "water", "fire" ]
+elementResistances = [ "dark" ]
