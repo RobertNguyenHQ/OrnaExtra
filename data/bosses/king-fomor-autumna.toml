@@ -1,4 +1,5 @@
 # King Fomor, Autumna / 弗摩尔王奥图娜 / 弗摩爾王，阿圖娜
 id = "king-fomor-autumna"
 
-elementImmunities = ["dark"]
+elementImmunities = [ "dark" ]
+elementResistances = [ "water" ]
