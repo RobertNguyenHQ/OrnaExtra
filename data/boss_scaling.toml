@@ -1130,7 +1130,7 @@ caladbolg = -1
 candle-pike = 1
 # Candle-staff / 蜡烛法杖 / 蠟燭法杖
 candle-staff = 1
-# Candy Cane / 枴杖糖 / 枴杖糖
+# Candy Cane / 拐杖糖 / 枴杖糖
 candy-cane = 1
 # Cane / 杖 / 杖
 cane = -1
@@ -2308,7 +2308,7 @@ great-fishing-hat = -1
 great-jinn-staff = 1
 # Great Lizarr Armor / 强大蜥蜴人盔甲 / 強大蜥蜴人盔甲
 great-lizarr-armor = -1
-# Great Lizarr Blade / 上级蜥蜴人宽剑 / 上級蜥蜴人寬劍
+# Great Lizarr Blade / 强大蜥蜴人宽剑 / 上級蜥蜴人寬劍
 great-lizarr-blade = -1
 # Great Lizarr Boots / 强大蜥蜴人长靴 / 強大蜥蜴人長靴
 great-lizarr-boots = -1
@@ -2852,13 +2852,13 @@ mimic-king-of-kings-head = 1
 minotaur-axe = 1
 # Mirror / 镜子 / 鏡子
 mirror = -1
-# Mochi's Boots of Mercy / Mochi's Boots of Mercy / Mochi's Boots of Mercy
+# Mochi's Boots of Mercy / Mochi的慈悲长靴 / Mochi的慈悲長靴
 mochis-boots-of-mercy = 1
-# Mochi's Claws / Mochi's Claws / Mochi's Claws
+# Mochi's Claws / Mochi的利爪 / Mochi的爪爪
 mochis-claws = 1
-# Mochi's Cowl of Mercy / Mochi's Cowl of Mercy / Mochi's Cowl of Mercy
+# Mochi's Cowl of Mercy / Mochi的慈悲风帽 / Mochi的慈悲風帽
 mochis-cowl-of-mercy = 1
-# Mochi's Garb of Mercy / Mochi's Garb of Mercy / Mochi's Garb of Mercy
+# Mochi's Garb of Mercy / Mochi的慈悲皮甲 / Mochi的慈悲皮甲
 mochis-garb-of-mercy = 1
 # Monoceros Cowl / 一角兽风帽 / 一角獸風帽
 monoceros-cowl = -1
