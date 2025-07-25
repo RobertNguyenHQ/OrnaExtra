@@ -1341,6 +1341,8 @@ cursed-esuss-pillar = 1
 # Cursed Fomoria Plated Boots / 诅咒的弗摩尔镀金长靴 / 受詛咒的弗摩爾族板甲靴
 cursed-fomoria-plated-boots = 1
 # Cursed Fomoria Plated Boots / 诅咒的弗摩尔镀金长靴 / 受詛咒的弗摩爾族板甲靴
+cursed-fomoria-plated-boots-0ebf6063 = 0
+# Cursed Fomoria Plated Boots / 诅咒的弗摩尔镀金长靴 / 受詛咒的弗摩爾族板甲靴
 cursed-fomoria-plated-boots-7a9f5efc = 1
 # Cursed Fomoria Plated Boots / 诅咒的弗摩尔镀金长靴 / 受詛咒的弗摩爾族板甲靴
 cursed-fomoria-plated-boots-c6787dd8 = 1
@@ -2130,6 +2132,8 @@ fomoria-plated-robe = 1
 fomoria-plated-robe-272802ec = 1
 # Fomoria Plated Robe / 弗摩尔镀金长袍 / 弗摩爾族板甲袍
 fomoria-plated-robe-427f8b42 = 1
+# Fomoria Plated Robe / 弗摩尔镀金长袍 / 弗摩爾族板甲袍
+fomoria-plated-robe-946a26b9 = 0
 # Fomoria Plated Robe / 弗摩尔镀金长袍 / 弗摩爾族板甲袍
 fomoria-plated-robe-fb3188b6 = 1
 # Fomorian Armor / 弗摩尔族盔甲 / 弗摩爾族盔甲
@@ -3824,6 +3828,38 @@ xi-olympia-vestment = 1
 xi-olympia-warbow = 1
 # Xi Olympia Warsword / ξ奥林匹亚战刃 / ξ奧林匹亞戰刃
 xi-olympia-warsword = 1
+# Yelmogus Boots / Yelmogus Boots / Yelmogus Boots
+yelmogus-boots = 0
+# Yelmogus Cowl / Yelmogus Cowl / Yelmogus Cowl
+yelmogus-cowl = 0
+# Yelmogus Cuirass / Yelmogus Cuirass / Yelmogus Cuirass
+yelmogus-cuirass = 0
+# Yelmogus Garb / Yelmogus Garb / Yelmogus Garb
+yelmogus-garb = 0
+# Yelmogus Gown / Yelmogus Gown / Yelmogus Gown
+yelmogus-gown = 0
+# Yelmogus Greatstaff / Yelmogus Greatstaff / Yelmogus Greatstaff
+yelmogus-greatstaff = 0
+# Yelmogus Greatsword / Yelmogus Greatsword / Yelmogus Greatsword
+yelmogus-greatsword = 0
+# Yelmogus Greaves / Yelmogus Greaves / Yelmogus Greaves
+yelmogus-greaves = 0
+# Yelmogus Headdress / Yelmogus Headdress / Yelmogus Headdress
+yelmogus-headdress = 0
+# Yelmogus Headrobe / Yelmogus Headrobe / Yelmogus Headrobe
+yelmogus-headrobe = 0
+# Yelmogus Legwraps / Yelmogus Legwraps / Yelmogus Legwraps
+yelmogus-legwraps = 0
+# Yelmogus Quarterstaff / Yelmogus Quarterstaff / Yelmogus Quarterstaff
+yelmogus-quarterstaff = 0
+# Yelmogus Robes / Yelmogus Robes / Yelmogus Robes
+yelmogus-robes = 0
+# Yelmogus Sallet / Yelmogus Sallet / Yelmogus Sallet
+yelmogus-sallet = 0
+# Yelmogus Skirt / Yelmogus Skirt / Yelmogus Skirt
+yelmogus-skirt = 0
+# Yelmogus Thinblade / Yelmogus Thinblade / Yelmogus Thinblade
+yelmogus-thinblade = 0
 # Yeti Coat / 雪怪外套 / 雪怪外套
 yeti-coat = -1
 # Yeti Mightycoat / 极暖雪人大衣 / 極暖雪人大衣
