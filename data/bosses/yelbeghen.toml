@@ -1,7 +1,7 @@
 # Yelbeghen / 叶尔贝根 / 耶爾貝甘
 id = "yelbeghen"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+elementWeaknesses = [ "dragon" ]
+elementImmunities = [ "dark", "holy" ]
+elementResistances = [ "fire", "lightning" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]
