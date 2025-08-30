@@ -2,4 +2,4 @@
 id = "balor-king"
 
 elementWeaknesses = [ "arcane" ]
-elementResistances = [ "dark" ]
+elementResistances = [ "dark", "holy" ]
