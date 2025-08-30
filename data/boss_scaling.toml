@@ -1456,6 +1456,12 @@ dark-mage-robe = -1
 dark-staff = -1
 # Darkest Garb / 深渊皮甲 / 深淵皮甲
 darkest-garb = -1
+# Darkrift Chestguard / Darkrift Chestguard / Darkrift Chestguard
+darkrift-chestguard = 0
+# Darkrift Cowl / Darkrift Cowl / Darkrift Cowl
+darkrift-cowl = 0
+# Darkrift Robe / Darkrift Robe / Darkrift Robe
+darkrift-robe = 0
 # Dawn Armor / 破晓盔甲 / 破曉盔甲
 dawn-armor = 1
 # Dawn Boots / 破晓长靴 / 破曉長靴
@@ -1812,6 +1818,8 @@ esuss-pillar = 1
 everlasting-torch = -1
 # Excalibur / 誓约圣剑 / 誓約聖劍
 excalibur = 1
+# Excalibur / 誓约圣剑 / 誓約聖劍
+excalibur-32be53bc = 0
 # Excalibur / 誓约圣剑 / 誓約聖劍
 excalibur-eec7bf3e = 1
 # Eye of the Feyger / 变异凝视者之眼 / 變異凝視者之眼
@@ -3882,6 +3890,16 @@ ymir-staff-of-zaltys = 1
 ymir-world-eater = 1
 # Yokai's Staff / 妖怪法杖 / 妖怪法杖
 yokais-staff = -1
+# Zagreus Bident / Zagreus Bident / Zagreus Bident
+zagreus-bident = 0
+# Zagreus Chestplate / Zagreus Chestplate / Zagreus Chestplate
+zagreus-chestplate = 0
+# Zagreus Headwrap / Zagreus Headwrap / Zagreus Headwrap
+zagreus-headwrap = 0
+# Zagreus Legwraps / Zagreus Legwraps / Zagreus Legwraps
+zagreus-legwraps = 0
+# Zagreus Rete / Zagreus Rete / Zagreus Rete
+zagreus-rete = 0
 # Zeta Myrddin / ζ梅尔丁 / ζ梅爾丁
 zeta-myrddin = 1
 # Zeta Myrddin Cloak / ζ梅尔丁斗篷 / ζ梅爾丁披風
