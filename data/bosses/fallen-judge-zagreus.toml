@@ -1,7 +1,5 @@
 # Fallen Judge Zagreus / Fallen Judge Zagreus / Fallen Judge Zagreus
 id = "fallen-judge-zagreus"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+elementImmunities = [ "dark", "holy" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "windswept", "frozen", "blind", "asleep", "petrified", "stasis" ]
