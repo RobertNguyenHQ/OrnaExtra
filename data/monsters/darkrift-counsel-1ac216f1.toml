@@ -1,7 +1,5 @@
 # Darkrift Counsel / Darkrift Counsel / Darkrift Counsel
 id = "darkrift-counsel-1ac216f1"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+elementWeaknesses = [ "holy" ]
+elementResistances = [ "dark" ]
