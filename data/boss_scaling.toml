@@ -1457,11 +1457,11 @@ dark-staff = -1
 # Darkest Garb / 深渊皮甲 / 深淵皮甲
 darkest-garb = -1
 # Darkrift Chestguard / Darkrift Chestguard / Darkrift Chestguard
-darkrift-chestguard = 0
+darkrift-chestguard = 1
 # Darkrift Cowl / Darkrift Cowl / Darkrift Cowl
-darkrift-cowl = 0
+darkrift-cowl = 1
 # Darkrift Robe / Darkrift Robe / Darkrift Robe
-darkrift-robe = 0
+darkrift-robe = 1
 # Dawn Armor / 破晓盔甲 / 破曉盔甲
 dawn-armor = 1
 # Dawn Boots / 破晓长靴 / 破曉長靴
@@ -3891,15 +3891,15 @@ ymir-world-eater = 1
 # Yokai's Staff / 妖怪法杖 / 妖怪法杖
 yokais-staff = -1
 # Zagreus Bident / Zagreus Bident / Zagreus Bident
-zagreus-bident = 0
+zagreus-bident = 1
 # Zagreus Chestplate / Zagreus Chestplate / Zagreus Chestplate
-zagreus-chestplate = 0
+zagreus-chestplate = 1
 # Zagreus Headwrap / Zagreus Headwrap / Zagreus Headwrap
-zagreus-headwrap = 0
+zagreus-headwrap = 1
 # Zagreus Legwraps / Zagreus Legwraps / Zagreus Legwraps
-zagreus-legwraps = 0
+zagreus-legwraps = 1
 # Zagreus Rete / Zagreus Rete / Zagreus Rete
-zagreus-rete = 0
+zagreus-rete = 1
 # Zeta Myrddin / ζ梅尔丁 / ζ梅爾丁
 zeta-myrddin = 1
 # Zeta Myrddin Cloak / ζ梅尔丁斗篷 / ζ梅爾丁披風
