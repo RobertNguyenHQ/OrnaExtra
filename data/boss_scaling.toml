@@ -366,6 +366,12 @@ arisen-demeters-halberd = 1
 arisen-demeters-staff = 1
 # Arisen Draconian Archistaff / 重生德肯尼亚族权杖 / 重生德肯尼亞族權杖
 arisen-draconian-archistaff = 1
+# Arisen Dullahan Bladed Boots / Arisen Dullahan Bladed Boots / Arisen Dullahan Bladed Boots
+arisen-dullahan-bladed-boots = 0
+# Arisen Dullahan Cloak / Arisen Dullahan Cloak / Arisen Dullahan Cloak
+arisen-dullahan-cloak = 0
+# Arisen Dullahan Skull / Arisen Dullahan Skull / Arisen Dullahan Skull
+arisen-dullahan-skull = 0
 # Arisen Embla Hood / 重生恩布拉兜帽 / 重生安布拉兜帽
 arisen-embla-hood = 1
 # Arisen Embla Robe / 重生恩布拉法袍 / 重生安布拉法袍
@@ -632,6 +638,8 @@ arisen-shoes = 1
 arisen-silk-crossbow = 1
 # Arisen Sleighblade / 重生雪橇刃 / 重生雪橇刃
 arisen-sleighblade = 1
+# Arisen Spinal Whip / Arisen Spinal Whip / Arisen Spinal Whip
+arisen-spinal-whip = 0
 # Arisen Spiritgarm Grimoire / 重生幽灵加姆魔法书 / 重生靈獸加姆魔法書
 arisen-spiritgarm-grimoire = 1
 # Arisen Staff of Tiamat / 重生提亚马特法杖 / 重生提亞馬特的法杖
@@ -1008,6 +1016,28 @@ beguiled-staff = 1
 beguiled-staff-x = 1
 # Beguiled Staff Y / 着魔法杖Y / 著魔法杖 Y
 beguiled-staff-y = 1
+# Beheaded Assassin's Bladed Boots / Beheaded Assassin's Bladed Boots / Beheaded Assassin's Bladed Boots
+beheaded-assassins-bladed-boots = 0
+# Beheaded Benefactor's Pumpkinhead / Beheaded Benefactor's Pumpkinhead / Beheaded Benefactor's Pumpkinhead
+beheaded-benefactors-pumpkinhead = 0
+# Beheaded Duelist’s Chausses / Beheaded Duelist’s Chausses / Beheaded Duelist’s Chausses
+beheaded-duelists-chausses = 0
+# Beheaded High Cleric's Ankh / Beheaded High Cleric's Ankh / Beheaded High Cleric's Ankh
+beheaded-high-clerics-ankh = 0
+# Beheaded Merchant's Tunic / Beheaded Merchant's Tunic / Beheaded Merchant's Tunic
+beheaded-merchants-tunic = 0
+# Beheaded Scholar's Chargeblade / Beheaded Scholar's Chargeblade / Beheaded Scholar's Chargeblade
+beheaded-scholars-chargeblade = 0
+# Beheaded Stargazer's Candlehead / Beheaded Stargazer's Candlehead / Beheaded Stargazer's Candlehead
+beheaded-stargazers-candlehead = 0
+# Beheaded Swashbuckler's Jacket / Beheaded Swashbuckler's Jacket / Beheaded Swashbuckler's Jacket
+beheaded-swashbucklers-jacket = 0
+# Beheaded Trickster’s Pumpkinhead / Beheaded Trickster’s Pumpkinhead / Beheaded Trickster’s Pumpkinhead
+beheaded-tricksters-pumpkinhead = 0
+# Beheaded Warden’s Tower Shield / Beheaded Warden’s Tower Shield / Beheaded Warden’s Tower Shield
+beheaded-wardens-tower-shield = 0
+# Beheaded Zwei-fencer’s Cuirass / Beheaded Zwei-fencer’s Cuirass / Beheaded Zwei-fencer’s Cuirass
+beheaded-zwei-fencers-cuirass = 0
 # Beithir's Staff / 贝希尔法杖 / 貝西爾的法杖
 beithirs-staff = 1
 # Belenus's Boots / 百勒努斯长靴 / 貝里努斯長靴
@@ -1456,11 +1486,11 @@ dark-mage-robe = -1
 dark-staff = -1
 # Darkest Garb / 深渊皮甲 / 深淵皮甲
 darkest-garb = -1
-# Darkrift Chestguard / Darkrift Chestguard / Darkrift Chestguard
+# Darkrift Chestguard / 暗域裂隙胸铠 / 暗黑裂痕胸鎧
 darkrift-chestguard = 1
-# Darkrift Cowl / Darkrift Cowl / Darkrift Cowl
+# Darkrift Cowl / 暗域裂隙风帽 / 暗黑裂痕風帽
 darkrift-cowl = 1
-# Darkrift Robe / Darkrift Robe / Darkrift Robe
+# Darkrift Robe / 暗域裂隙法袍 / 暗黑裂痕法袍
 darkrift-robe = 1
 # Dawn Armor / 破晓盔甲 / 破曉盔甲
 dawn-armor = 1
@@ -2398,6 +2428,12 @@ hard-leather-boots = -1
 hardwood-lute = -1
 # Harpy's Feathers / 鹰身女妖的羽毛 / 哈比的羽毛
 harpys-feathers = -1
+# Haunted Dullahan Bladed Boots / Haunted Dullahan Bladed Boots / Haunted Dullahan Bladed Boots
+haunted-dullahan-bladed-boots = 0
+# Haunted Dullahan Cloak / Haunted Dullahan Cloak / Haunted Dullahan Cloak
+haunted-dullahan-cloak = 0
+# Haunted Dullahan Skull / Haunted Dullahan Skull / Haunted Dullahan Skull
+haunted-dullahan-skull = 0
 # Havel's Cuirass / Havel胸甲 / Havel的胸甲
 havels-cuirass = 1
 # Havel's Helmet / Havel头盔 / Havel的頭盔
@@ -2622,6 +2658,8 @@ kaladanda = 1
 kerberos-archistaff = 1
 # Kerberos Claws / 刻耳柏洛斯之爪 / 刻耳柏洛斯之爪
 kerberos-claws = 1
+# Kerberos Claws / 刻耳柏洛斯之爪 / 刻耳柏洛斯之爪
+kerberos-claws-81b67c8d = 0
 # Kerberos Claws / 刻耳柏洛斯之爪 / 刻耳柏洛斯之爪
 kerberos-claws-e7f61ea1 = 1
 # Kerberos Greatsword / 刻耳柏洛斯巨剑 / 刻耳柏洛斯巨劍
@@ -3514,6 +3552,8 @@ spectral-shoes = 1
 spelunking-staff = 1
 # Spiked Greatshield / 荆棘巨盾 / 荊棘大盾
 spiked-greatshield = 1
+# Spinal Whip / Spinal Whip / Spinal Whip
+spinal-whip = 0
 # Spirit of the Wood / 木之灵 / 木之靈
 spirit-of-the-wood = 1
 # Spiritgarm Grimoire / 幽灵加姆魔法书 / 靈獸加姆魔法書
@@ -3890,15 +3930,15 @@ ymir-staff-of-zaltys = 1
 ymir-world-eater = 1
 # Yokai's Staff / 妖怪法杖 / 妖怪法杖
 yokais-staff = -1
-# Zagreus Bident / Zagreus Bident / Zagreus Bident
+# Zagreus Bident / 扎格列欧斯双叉戟 / 扎格柔斯雙叉戟
 zagreus-bident = 1
-# Zagreus Chestplate / Zagreus Chestplate / Zagreus Chestplate
+# Zagreus Chestplate / 扎格列欧斯胸甲 / 扎格柔斯胸甲
 zagreus-chestplate = 1
-# Zagreus Headwrap / Zagreus Headwrap / Zagreus Headwrap
+# Zagreus Headwrap / 扎格列欧斯头饰 / 扎格柔斯頭飾
 zagreus-headwrap = 1
-# Zagreus Legwraps / Zagreus Legwraps / Zagreus Legwraps
+# Zagreus Legwraps / 扎格列欧斯裹腿 / 扎格柔斯裹腿
 zagreus-legwraps = 1
-# Zagreus Rete / Zagreus Rete / Zagreus Rete
+# Zagreus Rete / 扎格列欧斯天罗地网 / 扎格柔斯護網
 zagreus-rete = 1
 # Zeta Myrddin / ζ梅尔丁 / ζ梅爾丁
 zeta-myrddin = 1
