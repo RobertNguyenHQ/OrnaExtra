@@ -367,11 +367,11 @@ arisen-demeters-staff = 1
 # Arisen Draconian Archistaff / 重生德肯尼亚族权杖 / 重生德肯尼亞族權杖
 arisen-draconian-archistaff = 1
 # Arisen Dullahan Bladed Boots / 重生杜拉罕锋刃长靴 / 重生無頭騎士帶刃長靴
-arisen-dullahan-bladed-boots = 0
+arisen-dullahan-bladed-boots = 1
 # Arisen Dullahan Cloak / 重生杜拉罕斗篷 / 重生無頭騎士披風
-arisen-dullahan-cloak = 0
+arisen-dullahan-cloak = 1
 # Arisen Dullahan Skull / 重生杜拉罕头颅 / 重生無頭騎士頭骨
-arisen-dullahan-skull = 0
+arisen-dullahan-skull = 1
 # Arisen Embla Hood / 重生恩布拉兜帽 / 重生安布拉兜帽
 arisen-embla-hood = 1
 # Arisen Embla Robe / 重生恩布拉法袍 / 重生安布拉法袍
@@ -639,7 +639,7 @@ arisen-silk-crossbow = 1
 # Arisen Sleighblade / 重生雪橇刃 / 重生雪橇刃
 arisen-sleighblade = 1
 # Arisen Spinal Whip / 重生髓鞭 / 重生脊髓鞭
-arisen-spinal-whip = 0
+arisen-spinal-whip = 1
 # Arisen Spiritgarm Grimoire / 重生幽灵加姆魔法书 / 重生靈獸加姆魔法書
 arisen-spiritgarm-grimoire = 1
 # Arisen Staff of Tiamat / 重生提亚马特法杖 / 重生提亞馬特的法杖
@@ -1017,27 +1017,27 @@ beguiled-staff-x = 1
 # Beguiled Staff Y / 着魔法杖Y / 著魔法杖 Y
 beguiled-staff-y = 1
 # Beheaded Assassin's Bladed Boots / 无头刺客的锋刃长靴 / 喪首刺客帶刃長靴
-beheaded-assassins-bladed-boots = 0
+beheaded-assassins-bladed-boots = 1
 # Beheaded Benefactor's Pumpkinhead / 无头献身者的南瓜头 / 喪首施主的南瓜頭
-beheaded-benefactors-pumpkinhead = 0
+beheaded-benefactors-pumpkinhead = 1
 # Beheaded Duelist’s Chausses / 无头决斗家的腿链甲 / 喪首決鬥家的鍊甲護腿
-beheaded-duelists-chausses = 0
+beheaded-duelists-chausses = 1
 # Beheaded High Cleric's Ankh / 无头高阶牧师的生命之符 / 喪首高階牧師的生命之符
-beheaded-high-clerics-ankh = 0
+beheaded-high-clerics-ankh = 1
 # Beheaded Merchant's Tunic / 无头商人的罩衫 / 喪首商人的束腰外衣
-beheaded-merchants-tunic = 0
+beheaded-merchants-tunic = 1
 # Beheaded Scholar's Chargeblade / Beheaded Scholar's Chargeblade / Beheaded Scholar's Chargeblade
-beheaded-scholars-chargeblade = 0
+beheaded-scholars-chargeblade = 1
 # Beheaded Stargazer's Candlehead / 无头观星者的蜡烛头 / 喪首觀星者的燭台
-beheaded-stargazers-candlehead = 0
+beheaded-stargazers-candlehead = 1
 # Beheaded Swashbuckler's Jacket / 无头侠客的夹克 / 喪首俠客的外套
-beheaded-swashbucklers-jacket = 0
+beheaded-swashbucklers-jacket = 1
 # Beheaded Trickster’s Pumpkinhead / 无头诈术师的南瓜头 / 喪首詐術師的南瓜頭
-beheaded-tricksters-pumpkinhead = 0
+beheaded-tricksters-pumpkinhead = 1
 # Beheaded Warden’s Tower Shield / 无头守望者的塔盾 / 喪首守望者的塔盾
-beheaded-wardens-tower-shield = 0
+beheaded-wardens-tower-shield = 1
 # Beheaded Zwei-fencer’s Cuirass / 无头重武悍将胸甲 / 喪首重武悍將的胸甲
-beheaded-zwei-fencers-cuirass = 0
+beheaded-zwei-fencers-cuirass = 1
 # Beithir's Staff / 贝希尔法杖 / 貝西爾的法杖
 beithirs-staff = 1
 # Belenus's Boots / 百勒努斯长靴 / 貝里努斯長靴
@@ -1371,7 +1371,7 @@ cursed-esuss-pillar = 1
 # Cursed Fomoria Plated Boots / 诅咒的弗摩尔镀金长靴 / 受詛咒的弗摩爾族板甲靴
 cursed-fomoria-plated-boots = 1
 # Cursed Fomoria Plated Boots / 诅咒的弗摩尔镀金长靴 / 受詛咒的弗摩爾族板甲靴
-cursed-fomoria-plated-boots-0ebf6063 = 0
+cursed-fomoria-plated-boots-0ebf6063 = 1
 # Cursed Fomoria Plated Boots / 诅咒的弗摩尔镀金长靴 / 受詛咒的弗摩爾族板甲靴
 cursed-fomoria-plated-boots-7a9f5efc = 1
 # Cursed Fomoria Plated Boots / 诅咒的弗摩尔镀金长靴 / 受詛咒的弗摩爾族板甲靴
@@ -1849,7 +1849,7 @@ everlasting-torch = -1
 # Excalibur / 誓约圣剑 / 誓約聖劍
 excalibur = 1
 # Excalibur / 誓约圣剑 / 誓約聖劍
-excalibur-32be53bc = 0
+excalibur-32be53bc = 1
 # Excalibur / 誓约圣剑 / 誓約聖劍
 excalibur-eec7bf3e = 1
 # Eye of the Feyger / 变异凝视者之眼 / 變異凝視者之眼
@@ -2171,7 +2171,7 @@ fomoria-plated-robe-272802ec = 1
 # Fomoria Plated Robe / 弗摩尔镀金长袍 / 弗摩爾族板甲袍
 fomoria-plated-robe-427f8b42 = 1
 # Fomoria Plated Robe / 弗摩尔镀金长袍 / 弗摩爾族板甲袍
-fomoria-plated-robe-946a26b9 = 0
+fomoria-plated-robe-946a26b9 = 1
 # Fomoria Plated Robe / 弗摩尔镀金长袍 / 弗摩爾族板甲袍
 fomoria-plated-robe-fb3188b6 = 1
 # Fomorian Armor / 弗摩尔族盔甲 / 弗摩爾族盔甲
@@ -2429,11 +2429,11 @@ hardwood-lute = -1
 # Harpy's Feathers / 鹰身女妖的羽毛 / 哈比的羽毛
 harpys-feathers = -1
 # Haunted Dullahan Bladed Boots / 作祟杜拉罕锋刃长靴 / 鬧鬼的無頭騎士帶刃長靴
-haunted-dullahan-bladed-boots = 0
+haunted-dullahan-bladed-boots = 1
 # Haunted Dullahan Cloak / 作祟杜拉罕斗篷 / 鬧鬼的無頭騎士披風
-haunted-dullahan-cloak = 0
+haunted-dullahan-cloak = 1
 # Haunted Dullahan Skull / 作祟杜拉罕头颅 / 鬧鬼的無頭騎士頭骨
-haunted-dullahan-skull = 0
+haunted-dullahan-skull = 1
 # Havel's Cuirass / Havel胸甲 / Havel的胸甲
 havels-cuirass = 1
 # Havel's Helmet / Havel头盔 / Havel的頭盔
@@ -2659,7 +2659,7 @@ kerberos-archistaff = 1
 # Kerberos Claws / 刻耳柏洛斯之爪 / 刻耳柏洛斯之爪
 kerberos-claws = 1
 # Kerberos Claws / 刻耳柏洛斯之爪 / 刻耳柏洛斯之爪
-kerberos-claws-81b67c8d = 0
+kerberos-claws-81b67c8d = 1
 # Kerberos Claws / 刻耳柏洛斯之爪 / 刻耳柏洛斯之爪
 kerberos-claws-e7f61ea1 = 1
 # Kerberos Greatsword / 刻耳柏洛斯巨剑 / 刻耳柏洛斯巨劍
@@ -3553,7 +3553,7 @@ spelunking-staff = 1
 # Spiked Greatshield / 荆棘巨盾 / 荊棘大盾
 spiked-greatshield = 1
 # Spinal Whip / 髓鞭 / 脊髓鞭
-spinal-whip = 0
+spinal-whip = 1
 # Spirit of the Wood / 木之灵 / 木之靈
 spirit-of-the-wood = 1
 # Spiritgarm Grimoire / 幽灵加姆魔法书 / 靈獸加姆魔法書
