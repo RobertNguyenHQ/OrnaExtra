@@ -366,11 +366,11 @@ arisen-demeters-halberd = 1
 arisen-demeters-staff = 1
 # Arisen Draconian Archistaff / 重生德肯尼亚族权杖 / 重生德肯尼亞族權杖
 arisen-draconian-archistaff = 1
-# Arisen Dullahan Bladed Boots / Arisen Dullahan Bladed Boots / Arisen Dullahan Bladed Boots
+# Arisen Dullahan Bladed Boots / 重生杜拉罕锋刃长靴 / 重生無頭騎士帶刃長靴
 arisen-dullahan-bladed-boots = 0
-# Arisen Dullahan Cloak / Arisen Dullahan Cloak / Arisen Dullahan Cloak
+# Arisen Dullahan Cloak / 重生杜拉罕斗篷 / 重生無頭騎士披風
 arisen-dullahan-cloak = 0
-# Arisen Dullahan Skull / Arisen Dullahan Skull / Arisen Dullahan Skull
+# Arisen Dullahan Skull / 重生杜拉罕头颅 / 重生無頭騎士頭骨
 arisen-dullahan-skull = 0
 # Arisen Embla Hood / 重生恩布拉兜帽 / 重生安布拉兜帽
 arisen-embla-hood = 1
@@ -638,7 +638,7 @@ arisen-shoes = 1
 arisen-silk-crossbow = 1
 # Arisen Sleighblade / 重生雪橇刃 / 重生雪橇刃
 arisen-sleighblade = 1
-# Arisen Spinal Whip / Arisen Spinal Whip / Arisen Spinal Whip
+# Arisen Spinal Whip / 重生髓鞭 / 重生脊髓鞭
 arisen-spinal-whip = 0
 # Arisen Spiritgarm Grimoire / 重生幽灵加姆魔法书 / 重生靈獸加姆魔法書
 arisen-spiritgarm-grimoire = 1
@@ -1016,27 +1016,27 @@ beguiled-staff = 1
 beguiled-staff-x = 1
 # Beguiled Staff Y / 着魔法杖Y / 著魔法杖 Y
 beguiled-staff-y = 1
-# Beheaded Assassin's Bladed Boots / Beheaded Assassin's Bladed Boots / Beheaded Assassin's Bladed Boots
+# Beheaded Assassin's Bladed Boots / 无头刺客的锋刃长靴 / 喪首刺客帶刃長靴
 beheaded-assassins-bladed-boots = 0
-# Beheaded Benefactor's Pumpkinhead / Beheaded Benefactor's Pumpkinhead / Beheaded Benefactor's Pumpkinhead
+# Beheaded Benefactor's Pumpkinhead / 无头献身者的南瓜头 / 喪首施主的南瓜頭
 beheaded-benefactors-pumpkinhead = 0
-# Beheaded Duelist’s Chausses / Beheaded Duelist’s Chausses / Beheaded Duelist’s Chausses
+# Beheaded Duelist’s Chausses / 无头决斗家的腿链甲 / 喪首決鬥家的鍊甲護腿
 beheaded-duelists-chausses = 0
-# Beheaded High Cleric's Ankh / Beheaded High Cleric's Ankh / Beheaded High Cleric's Ankh
+# Beheaded High Cleric's Ankh / 无头高阶牧师的生命之符 / 喪首高階牧師的生命之符
 beheaded-high-clerics-ankh = 0
-# Beheaded Merchant's Tunic / Beheaded Merchant's Tunic / Beheaded Merchant's Tunic
+# Beheaded Merchant's Tunic / 无头商人的罩衫 / 喪首商人的束腰外衣
 beheaded-merchants-tunic = 0
 # Beheaded Scholar's Chargeblade / Beheaded Scholar's Chargeblade / Beheaded Scholar's Chargeblade
 beheaded-scholars-chargeblade = 0
-# Beheaded Stargazer's Candlehead / Beheaded Stargazer's Candlehead / Beheaded Stargazer's Candlehead
+# Beheaded Stargazer's Candlehead / 无头观星者的蜡烛头 / 喪首觀星者的燭台
 beheaded-stargazers-candlehead = 0
-# Beheaded Swashbuckler's Jacket / Beheaded Swashbuckler's Jacket / Beheaded Swashbuckler's Jacket
+# Beheaded Swashbuckler's Jacket / 无头侠客的夹克 / 喪首俠客的外套
 beheaded-swashbucklers-jacket = 0
-# Beheaded Trickster’s Pumpkinhead / Beheaded Trickster’s Pumpkinhead / Beheaded Trickster’s Pumpkinhead
+# Beheaded Trickster’s Pumpkinhead / 无头诈术师的南瓜头 / 喪首詐術師的南瓜頭
 beheaded-tricksters-pumpkinhead = 0
-# Beheaded Warden’s Tower Shield / Beheaded Warden’s Tower Shield / Beheaded Warden’s Tower Shield
+# Beheaded Warden’s Tower Shield / 无头守望者的塔盾 / 喪首守望者的塔盾
 beheaded-wardens-tower-shield = 0
-# Beheaded Zwei-fencer’s Cuirass / Beheaded Zwei-fencer’s Cuirass / Beheaded Zwei-fencer’s Cuirass
+# Beheaded Zwei-fencer’s Cuirass / 无头重武悍将胸甲 / 喪首重武悍將的胸甲
 beheaded-zwei-fencers-cuirass = 0
 # Beithir's Staff / 贝希尔法杖 / 貝西爾的法杖
 beithirs-staff = 1
@@ -2428,11 +2428,11 @@ hard-leather-boots = -1
 hardwood-lute = -1
 # Harpy's Feathers / 鹰身女妖的羽毛 / 哈比的羽毛
 harpys-feathers = -1
-# Haunted Dullahan Bladed Boots / Haunted Dullahan Bladed Boots / Haunted Dullahan Bladed Boots
+# Haunted Dullahan Bladed Boots / 作祟杜拉罕锋刃长靴 / 鬧鬼的無頭騎士帶刃長靴
 haunted-dullahan-bladed-boots = 0
-# Haunted Dullahan Cloak / Haunted Dullahan Cloak / Haunted Dullahan Cloak
+# Haunted Dullahan Cloak / 作祟杜拉罕斗篷 / 鬧鬼的無頭騎士披風
 haunted-dullahan-cloak = 0
-# Haunted Dullahan Skull / Haunted Dullahan Skull / Haunted Dullahan Skull
+# Haunted Dullahan Skull / 作祟杜拉罕头颅 / 鬧鬼的無頭騎士頭骨
 haunted-dullahan-skull = 0
 # Havel's Cuirass / Havel胸甲 / Havel的胸甲
 havels-cuirass = 1
@@ -3552,7 +3552,7 @@ spectral-shoes = 1
 spelunking-staff = 1
 # Spiked Greatshield / 荆棘巨盾 / 荊棘大盾
 spiked-greatshield = 1
-# Spinal Whip / Spinal Whip / Spinal Whip
+# Spinal Whip / 髓鞭 / 脊髓鞭
 spinal-whip = 0
 # Spirit of the Wood / 木之灵 / 木之靈
 spirit-of-the-wood = 1
