@@ -1,0 +1,50 @@
+name: Convert TOML to JSON
+
+on:
+  workflow_dispatch: # run manually
+  push:
+    paths:
+      - "**/boss_scaling.toml"  # trigger if any boss_scaling.toml changes
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install toml lib
+        run: pip install toml
+
+      - name: Find and Convert TOML → JSON
+        run: |
+          FILE=$(find . -type f -name "boss_scaling.toml" | head -n 1)
+          if [ -z "$FILE" ]; then
+            echo "❌ No boss_scaling.toml found!"
+            exit 1
+          fi
+          echo "Found TOML at: $FILE"
+          JSON="${FILE%.toml}.json"
+          python - <<PYCODE
+          import toml, json, sys
+          toml_file = "$FILE"
+          json_file = "$JSON"
+          data = toml.load(toml_file)
+          with open(json_file, "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+          print(f"✅ Converted {toml_file} -> {json_file}")
+          PYCODE
+
+      - name: Commit and push JSON
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add **/boss_scaling.json
+          git commit -m "Auto-convert TOML to JSON"
+          git push || echo "No changes to commit"
